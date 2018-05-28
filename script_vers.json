@@ -1,10 +1,10 @@
 {
-  "latest": "2",
+  "latest": "1",
   "versions": 
   {
-	"2": 
+	"1": 
     {
-      "version": "2",
+      "version": "1",
       "release": "alpha",
       "archive": "http://blast.hk/moonloader/files/moonloader-026.zip",
       "installer": "http://blast.hk/moonloader/files/setup-moonloader-026.exe"
