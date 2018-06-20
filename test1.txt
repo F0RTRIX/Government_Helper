@@ -1,0 +1,4605 @@
+<!DOCTYPE html>
+<html id="XF" lang="ru-RU" dir="LTR"
+	data-app="public"
+	data-template="thread_view"
+	data-container-key="node-23"
+	data-content-key="thread-1319939"
+	data-logged-in="false"
+	data-cookie-prefix="xf_"
+	class="has-no-js template-thread_view"
+	>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+	
+	
+
+	<title>[Правительство]: Чёрный список Правительства. | Форум Advance RolePlay</title>
+
+	
+		
+		<meta name="description" content="ЧЁРНЫЙ СПИСОК ПРАВИТЕЛЬСТВА
+
+В данной теме будут указаны люди,
+которые попали в чёрный список за какие-либо нарушения.
+Человек, который занесен в этот..." />
+		<meta property="og:description" content="ЧЁРНЫЙ СПИСОК ПРАВИТЕЛЬСТВА
+
+В данной теме будут указаны люди,
+которые попали в чёрный список за какие-либо нарушения.
+Человек, который занесен в этот список,
+не имеет права вступать во фракции Правительства на какую-либо должность до тех пор, пока не будет вынесен из него.
+Существуют три уровня..." />
+		<meta property="twitter:description" content="ЧЁРНЫЙ СПИСОК ПРАВИТЕЛЬСТВА
+
+В данной теме будут указаны люди,
+которые попали в чёрный список за какие-либо нарушения.
+Человек, который занесен в этот список,
+не имеет права вступать во фракции..." />
+	
+	
+		<meta property="og:url" content="https://forum.advance-rp.ru/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/" />
+	
+		<link rel="canonical" href="https://forum.advance-rp.ru/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/" />
+	
+		<link rel="next" href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/page-2" />
+	
+
+	
+		
+	
+	
+	<meta property="og:site_name" content="Форум Advance RolePlay" />
+
+
+	
+	
+		
+	
+	
+	<meta property="og:type" content="website" />
+
+
+	
+	
+		
+	
+	
+	
+		<meta property="og:title" content="[Правительство]: Чёрный список Правительства." />
+		<meta property="twitter:title" content="[Правительство]: Чёрный список Правительства." />
+	
+
+
+	
+	
+	
+	
+
+	
+		<meta name="theme-color" content="#314052" />
+	
+
+	
+	
+	
+
+	
+
+	<link rel="stylesheet" href="/css.php?css=public%3Anormalize.css%2Cpublic%3Acore.less%2Cpublic%3Aapp.less&amp;s=11&amp;l=20&amp;d=1529476384&amp;k=d75980be39deae044befdcf06ae8ea8a2c54c029" />
+
+	
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+	
+	<link rel="stylesheet" href="/css.php?css=public%3Abb_code.less%2Cpublic%3Alightbox.less%2Cpublic%3Amessage.less%2Cpublic%3Ashare_controls.less%2Cpublic%3Aextra.less&amp;s=11&amp;l=20&amp;d=1529476384&amp;k=9ce6d8f9cd041aa111001e1b7333f03a4ba4bc2d" />
+
+	
+		<script src="/js/xf/preamble-compiled.js?_v=62a2561d"></script>
+	
+
+
+	
+	
+	
+	
+		
+	
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112492973-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-112492973-1', {
+			// 
+			
+			
+		});
+	</script>
+
+	<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter8171623 = new Ya.Metrika({
+                    id:8171623,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/8171623" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</head>
+<body data-template="thread_view">
+
+<div class="p-pageWrapper" id="top">
+
+
+
+<header class="p-header" id="header">
+	<div class="p-header-inner">
+		<div class="p-header-content">
+
+			<div class="p-header-logo p-header-logo--image">
+				<a href="/">
+					<img src="/styles/default/xenforo/logo2x.png"
+						alt="Форум Advance RolePlay"
+						 />
+				</a>
+			</div>
+
+			
+		</div>
+	</div>
+</header>
+
+
+
+
+
+	<div class="p-navSticky p-navSticky--primary" data-xf-init="sticky-header">
+		
+	<nav class="p-nav">
+		<div class="p-nav-inner">
+			<a class="p-nav-menuTrigger" data-xf-click="off-canvas" data-menu=".js-headerOffCanvasMenu" role="button" tabindex="0">
+				<i aria-hidden="true"></i>
+				<span class="p-nav-menuText">Меню</span>
+			</a>
+
+			<div class="p-nav-smallLogo">
+				<a href="/">
+					<img src="/styles/default/xenforo/logo.png"
+						alt="Форум Advance RolePlay"
+					 />
+				</a>
+			</div>
+
+			<div class="p-nav-scroller hScroller" data-xf-init="h-scroller" data-auto-scroll=".p-navEl.is-selected">
+				<div class="hScroller-scroll">
+					<ul class="p-nav-list js-offCanvasNavSource">
+					
+						<li>
+							
+	<div class="p-navEl " >
+		
+
+			
+	
+	<a href="https://www.advance-rp.ru/"
+		class="p-navEl-link "
+		
+		data-xf-key="1"
+		data-nav-id="home">Главная</a>
+
+
+			
+
+		
+		
+	</div>
+
+						</li>
+					
+						<li>
+							
+	<div class="p-navEl " >
+		
+
+			
+	
+	<a href="https://www.advance-rp.ru/donate/"
+		class="p-navEl-link "
+		
+		data-xf-key="2"
+		data-nav-id="Donate">Донат</a>
+
+
+			
+
+		
+		
+	</div>
+
+						</li>
+					
+						<li>
+							
+	<div class="p-navEl is-selected" data-has-children="true">
+		
+
+			
+	
+	<a href="/"
+		class="p-navEl-link p-navEl-link--splitMenu "
+		
+		
+		data-nav-id="forums">Форумы</a>
+
+
+			<a data-xf-key="3"
+				data-xf-click="menu"
+				data-menu-pos-ref="< .p-navEl"
+				data-arrow-pos-ref="< .p-navEl"
+				class="p-navEl-splitTrigger"
+				role="button"
+				tabindex="0"
+				aria-label="Toggle expanded"
+				aria-expanded="false"
+				aria-haspopup="true"></a>
+
+		
+		
+			<div class="menu menu--structural" data-menu="menu" aria-hidden="true">
+				<div class="menu-content">
+					<!--<h4 class="menu-header">Форумы</h4>-->
+					
+						
+	
+	
+	<a href="/whats-new/posts/"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		
+		
+		data-nav-id="newPosts">Новые сообщения</a>
+
+	
+
+					
+				</div>
+			</div>
+		
+	</div>
+
+						</li>
+					
+						<li>
+							
+	<div class="p-navEl " data-has-children="true">
+		
+
+			
+	
+	<a href="/whats-new/"
+		class="p-navEl-link p-navEl-link--splitMenu "
+		
+		
+		data-nav-id="whatsNew">Что нового?</a>
+
+
+			<a data-xf-key="4"
+				data-xf-click="menu"
+				data-menu-pos-ref="< .p-navEl"
+				data-arrow-pos-ref="< .p-navEl"
+				class="p-navEl-splitTrigger"
+				role="button"
+				tabindex="0"
+				aria-label="Toggle expanded"
+				aria-expanded="false"
+				aria-haspopup="true"></a>
+
+		
+		
+			<div class="menu menu--structural" data-menu="menu" aria-hidden="true">
+				<div class="menu-content">
+					<!--<h4 class="menu-header">Что нового?</h4>-->
+					
+						
+	
+	
+	<a href="/whats-new/posts/"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		 rel="nofollow"
+		
+		data-nav-id="whatsNewPosts">Новые сообщения</a>
+
+	
+
+					
+						
+	
+	
+	<a href="/whats-new/latest-activity"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		 rel="nofollow"
+		
+		data-nav-id="latestActivity">Последняя активность</a>
+
+	
+
+					
+				</div>
+			</div>
+		
+	</div>
+
+						</li>
+					
+					</ul>
+				</div>
+			</div>
+
+			<div class="p-nav-opposite">
+				<div class="p-navgroup p-account p-navgroup--guest">
+					
+						<a href="/login/" class="p-navgroup-link p-navgroup-link--textual p-navgroup-link--logIn" rel="nofollow"
+							data-xf-click="overlay" data-follow-redirects="on">
+							<span class="p-navgroup-linkText">Вход</span>
+						</a>
+						
+							<a href="/register/" class="p-navgroup-link p-navgroup-link--textual p-navgroup-link--register" rel="nofollow"
+								data-xf-click="overlay" data-follow-redirects="on">
+								<span class="p-navgroup-linkText">Регистрация</span>
+							</a>
+						
+					
+				</div>
+
+				<div class="p-navgroup p-discovery p-discovery--noSearch">
+					<a href="/whats-new/"
+						class="p-navgroup-link p-navgroup-link--iconic p-navgroup-link--whatsnew"
+						title="Что нового?">
+						<i aria-hidden="true"></i>
+						<span class="p-navgroup-linkText">Что нового?</span>
+					</a>
+
+					
+				</div>
+			</div>
+		</div>
+	</nav>
+
+	</div>
+	
+	
+		<div class="p-sectionLinks">
+			<div class="p-sectionLinks-inner hScroller" data-xf-init="h-scroller">
+				<div class="hScroller-scroll">
+					<ul class="p-sectionLinks-list">
+					
+						<li>
+							
+	<div class="p-navEl " >
+		
+
+			
+	
+	<a href="/whats-new/posts/"
+		class="p-navEl-link "
+		
+		data-xf-key="alt+1"
+		data-nav-id="newPosts">Новые сообщения</a>
+
+
+			
+
+		
+		
+	</div>
+
+						</li>
+					
+					</ul>
+				</div>
+			</div>
+		</div>
+	
+
+
+
+<div class="offCanvasMenu offCanvasMenu--nav js-headerOffCanvasMenu" data-menu="menu" aria-hidden="true" data-ocm-builder="navigation">
+	<div class="offCanvasMenu-backdrop" data-menu-close="true"></div>
+	<div class="offCanvasMenu-content">
+		<div class="offCanvasMenu-header">
+			Меню
+			<a class="offCanvasMenu-closer" data-menu-close="true" role="button" tabindex="0" aria-label="Закрыть"></a>
+		</div>
+		
+			<div class="p-offCanvasRegisterLink">
+				<div class="offCanvasMenu-linkHolder">
+					<a href="/login/" class="offCanvasMenu-link" rel="nofollow" data-xf-click="overlay" data-menu-close="true">
+						Вход
+					</a>
+				</div>
+				<hr class="offCanvasMenu-separator" />
+				
+					<div class="offCanvasMenu-linkHolder">
+						<a href="/register/" class="offCanvasMenu-link" rel="nofollow" data-xf-click="overlay" data-menu-close="true">
+							Регистрация
+						</a>
+					</div>
+					<hr class="offCanvasMenu-separator" />
+				
+			</div>
+		
+		<div class="js-offCanvasNavTarget"></div>
+	</div>
+</div>
+
+<div class="p-body">
+	<div class="p-body-inner">
+		<!--XF:EXTRA_OUTPUT-->
+
+		
+
+		
+
+		
+		
+	
+		<ul class="p-breadcrumbs "
+			itemscope itemtype="https://schema.org/BreadcrumbList">
+		
+
+			
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="https://www.advance-rp.ru/" itemprop="item">
+			<span itemprop="name">Главная</span>
+		</a>
+	</li>
+
+			
+
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="/" itemprop="item">
+			<span itemprop="name">Форумы</span>
+		</a>
+	</li>
+
+			
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="/.#razdely-igrovyx-serverov.12" itemprop="item">
+			<span itemprop="name">Разделы игровых серверов</span>
+		</a>
+	</li>
+
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="/forums/red-server.13/" itemprop="item">
+			<span itemprop="name">Red Server</span>
+		</a>
+	</li>
+
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="/forums/organizacii.20/" itemprop="item">
+			<span itemprop="name">Организации</span>
+		</a>
+	</li>
+
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="/forums/pravitelstvo.23/" itemprop="item">
+			<span itemprop="name">Правительство</span>
+		</a>
+	</li>
+
+			
+
+		
+		</ul>
+	
+
+		
+
+		
+	<noscript><div class="blockMessage blockMessage--important blockMessage--iconic u-noJsOnly">JavaScript отключён. Чтобы полноценно использовать наш сайт, включите JavaScript в своём браузере.</div></noscript>
+
+		
+	<!--[if lt IE 9]><div class="blockMessage blockMessage&#45;&#45;important blockMessage&#45;&#45;iconic">Вы используете устаревший браузер. Этот и другие сайты могут отображаться в нём некорректно.<br />Вам необходимо обновить браузер или попробовать использовать <a href="https://www.google.com/chrome/browser/" target="_blank">другой</a>.</div><![endif]-->
+
+
+		
+			<div class="p-body-header">
+			
+				
+					<div class="p-title ">
+					
+						
+							<h1 class="p-title-value">[Правительство]: Чёрный список Правительства.</h1>
+						
+						
+					
+					</div>
+				
+
+				
+					<div class="p-description">
+	<ul class="listInline listInline--bullet">
+		<li>
+			<i class="fa fa-user" aria-hidden="true" title="Автор темы"></i>
+			<span class="u-srOnly">Автор темы</span>
+
+			<a href="/members/k.83227/" class="username  u-concealed" dir="auto" data-user-id="83227" data-xf-init="member-tooltip">ᴊᴇʀʀʏ ʙʟᴀᴄкʙᴇʀʀʏ</a>
+		</li>
+		<li>
+			<i class="fa fa-clock-o" aria-hidden="true" title="Дата начала"></i>
+			<span class="u-srOnly">Дата начала</span>
+
+			<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/" class="u-concealed"><time  class="u-dt" dir="auto" datetime="2017-03-22T16:16:35+0300" data-time="1490188595" data-date-string="22 Мар 2017" data-time-string="16:16" title="22 Мар 2017 в 16:16">22 Мар 2017</time></a>
+		</li>
+		
+	</ul>
+</div>
+				
+			
+			</div>
+		
+
+		<div class="p-body-main  ">
+			
+
+			<div class="p-body-content">
+				
+				<div class="p-body-pageContent">
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+
+
+	
+	
+	
+		
+	
+	
+	
+
+
+	
+	
+		
+	
+	
+	
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+		
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+<div class="block block--messages" data-xf-init="" data-type="post" data-href="/inline-mod/">
+
+	
+	
+
+
+	<div class="block-outer"><div class="block-outer-main"><nav class="pageNavWrapper pageNavWrapper--mixed ">
+
+
+
+<div class="pageNav  pageNav--skipEnd">
+	
+
+	<ul class="pageNav-main">
+		
+
+	
+		<li class="pageNav-page pageNav-page--current "><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/">1</a></li>
+	
+
+
+		
+
+		
+			
+
+	
+		<li class="pageNav-page pageNav-page--later"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/page-2">2</a></li>
+	
+
+		
+			
+
+	
+		<li class="pageNav-page pageNav-page--later"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/page-3">3</a></li>
+	
+
+		
+
+		
+			
+				<li class="pageNav-page pageNav-page--skip pageNav-page--skipEnd">
+					<a data-xf-init="tooltip" title="Перейти к странице"
+						data-xf-click="menu"
+						role="button" tabindex="0" aria-expanded="false" aria-haspopup="true">...</a>
+					
+
+	<div class="menu menu--pageJump" data-menu="menu" aria-hidden="true">
+		<div class="menu-content">
+			<h4 class="menu-header">Перейти к странице</h4>
+			<div class="menu-row" data-xf-init="page-jump" data-page-url="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/page-%page%">
+				<div class="inputGroup inputGroup--numbers">
+					<div class="inputGroup inputGroup--numbers inputNumber" data-xf-init="number-box"><input type="number" pattern="\d*" class="input input--number js-numberBoxTextInput input input--numberNarrow js-pageJumpPage" value="4"  min="1" max="19" step="1" required="required" data-menu-autofocus="true" /></div>
+					<span class="inputGroup-text"><button type="button" class="js-pageJumpGo button"><span class="button-text">Выполнить</span></button></span>
+				</div>
+			</div>
+		</div>
+	</div>
+
+				</li>
+			
+		
+
+		
+
+	
+		<li class="pageNav-page "><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/page-19">19</a></li>
+	
+
+	</ul>
+
+	
+		<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/page-2" class="pageNav-jump pageNav-jump--next">Вперёд</a>
+	
+</div>
+
+<div class="pageNavSimple">
+	
+
+	<a class="pageNavSimple-el pageNavSimple-el--current"
+		data-xf-init="tooltip" title="Перейти к странице"
+		data-xf-click="menu" role="button" tabindex="0" aria-expanded="false" aria-haspopup="true">
+		1 из 19
+	</a>
+	
+
+	<div class="menu menu--pageJump" data-menu="menu" aria-hidden="true">
+		<div class="menu-content">
+			<h4 class="menu-header">Перейти к странице</h4>
+			<div class="menu-row" data-xf-init="page-jump" data-page-url="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/page-%page%">
+				<div class="inputGroup inputGroup--numbers">
+					<div class="inputGroup inputGroup--numbers inputNumber" data-xf-init="number-box"><input type="number" pattern="\d*" class="input input--number js-numberBoxTextInput input input--numberNarrow js-pageJumpPage" value="1"  min="1" max="19" step="1" required="required" data-menu-autofocus="true" /></div>
+					<span class="inputGroup-text"><button type="button" class="js-pageJumpGo button"><span class="button-text">Выполнить</span></button></span>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	
+		<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/page-2" class="pageNavSimple-el pageNavSimple-el--next">
+			Вперёд <i aria-hidden="true"></i>
+		</a>
+		<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/page-19"
+			class="pageNavSimple-el pageNavSimple-el--last"
+			data-xf-init="tooltip" title="Last">
+			<i aria-hidden="true"></i> <span class="u-srOnly">Last</span>
+		</a>
+	
+</div>
+
+</nav>
+
+
+
+</div></div>
+
+	<div class="block-outer js-threadStatusField"></div>
+
+	<div class="block-container lbContainer"
+		data-xf-init="lightbox select-to-quote"
+		data-message-selector=".js-post"
+		data-lb-id="thread-1319939"
+		data-lb-universal="1">
+
+		<div class="block-body js-replyNewMessageContainer">
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="ᴊᴇʀʀʏ ʙʟᴀᴄкʙᴇʀʀʏ"
+		data-content="post-16799148"
+		id="js-post-16799148">
+
+		<span class="u-anchorTarget" id="post-16799148"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/k.83227/" class="avatar avatar--m avatar--default avatar--default--dynamic" data-user-id="83227" data-xf-init="member-tooltip" style="background-color: #cc33cc; color: #3d0f3d">
+			<span class="avatar-u83227-m">ᴊ</span> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/k.83227/" class="username " dir="auto" data-user-id="83227" data-xf-init="member-tooltip" itemprop="name"><span class="username--style15">ᴊᴇʀʀʏ ʙʟᴀᴄкʙᴇʀʀʏ</span></a></h4>
+			<h5 class="userTitle message-userTitle" dir="auto" itemprop="jobTitle">Администратор</h5>
+			<div class="userBanner userBanner checkedpeople message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Проверенные</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-16799148" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-03-22T16:16:35+0300" data-time="1490188595" data-date-string="22 Мар 2017" data-time-string="16:16" title="22 Мар 2017 в 16:16">22 Мар 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-16799148" class="u-concealed" rel="nofollow">#1</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>1,210</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>3,735</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>468</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-16799148" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-03-22T16:16:35+0300" data-time="1490188595" data-date-string="22 Мар 2017" data-time-string="16:16" title="22 Мар 2017 в 16:16">22 Мар 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-16799148" class="u-concealed" rel="nofollow">#1</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-16799148"
+							data-lb-caption-desc="ᴊᴇʀʀʏ ʙʟᴀᴄкʙᴇʀʀʏ &middot; 22 Мар 2017 в 16:16">
+
+							
+								
+
+	
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper"><div style="text-align: center"><b><span style="font-family: 'Trebuchet MS'"><span style="font-size: 12px"><span style="color: rgb(0, 0, 0)">
+	
+	
+		
+		
+	
+
+
+	<div class="lbContainer lbContainer--inline"
+		data-xf-init="lightbox"
+		data-lb-single-image="1"
+		data-lb-container-zoom="1"
+		data-lb-trigger=".js-lbImage-_xfUid-1-1529482937"
+		data-lb-id="_xfUid-1-1529482937">
+		
+			<div class="lbContainer-zoomer js-lbImage-_xfUid-1-1529482937" data-src="http://s020.radikal.ru/i707/1608/b1/725200d2bcfd.png" aria-label="Zoom"></div>
+		
+		<img src="http://s020.radikal.ru/i707/1608/b1/725200d2bcfd.png" data-url="http://s020.radikal.ru/i707/1608/b1/725200d2bcfd.png" class="bbImage" data-zoom-target="1" alt="" />
+	</div>
+
+</span></span></span></b><br />
+<span style="font-size: 12px"><b><span style="font-family: 'Trebuchet MS'"><span style="color: rgb(0, 0, 0)">ЧЁРНЫЙ СПИСОК ПРАВИТЕЛЬСТВА</span></span></b></span><br />
+<br />
+<span style="font-size: 12px"><span style="font-family: 'Trebuchet MS'">В данной теме будут указаны люди,<br />
+которые попали в чёрный список за какие-либо нарушения.<br />
+Человек, который занесен в этот список,<br />
+не имеет права вступать во фракции Правительства на какую-либо должность до тех пор, пока не будет вынесен из него.
+	
+	
+		
+		
+	
+
+
+	<div class="lbContainer lbContainer--inline"
+		data-xf-init="lightbox"
+		data-lb-single-image="1"
+		data-lb-container-zoom="1"
+		data-lb-trigger=".js-lbImage-_xfUid-2-1529482937"
+		data-lb-id="_xfUid-2-1529482937">
+		
+			<div class="lbContainer-zoomer js-lbImage-_xfUid-2-1529482937" data-src="http://s3.uploads.ru/ZRLDC.png" aria-label="Zoom"></div>
+		
+		<img src="http://s3.uploads.ru/ZRLDC.png" data-url="http://s3.uploads.ru/ZRLDC.png" class="bbImage" data-zoom-target="1" alt="" />
+	</div>
+
+<br />
+Существуют три уровня чёрного списка:<br />
+<b>Первый уровень</b><br />
+
+
+<div class="bbCodeSpoiler">
+	<button type="button" class="bbCodeSpoiler-button button" data-xf-click="toggle" data-xf-init="tooltip" title="Нажмите для открытия или скрытия спойлера"><span class="button-text">
+
+		<span>Спойлер</span>
+	</span></button>
+	<div class="bbCodeSpoiler-content">
+		<div class="bbCodeBlock bbCodeBlock--spoiler">
+			<div class="bbCodeBlock-content"><b>Возможность выхода из Черного списка спустя два месяца с момента занесения, за следующие нарушения:</b><br />
+- Ушли по СЖ не отработав на должности судьи/cоветника 14 календарных дней.<br />
+- Нарушили Реформу Правительства;<br />
+- Грубо нарушали Реформы Мэрий;<br />
+- Обманывали, вводили в заблуждение сотрудников Правительства / высший состав Правительства.</div>
+		</div>
+	</div>
+</div>
+	
+	
+		
+		
+	
+
+
+	<div class="lbContainer lbContainer--inline"
+		data-xf-init="lightbox"
+		data-lb-single-image="1"
+		data-lb-container-zoom="1"
+		data-lb-trigger=".js-lbImage-_xfUid-3-1529482937"
+		data-lb-id="_xfUid-3-1529482937">
+		
+			<div class="lbContainer-zoomer js-lbImage-_xfUid-3-1529482937" data-src="http://s3.uploads.ru/ZRLDC.png" aria-label="Zoom"></div>
+		
+		<img src="http://s3.uploads.ru/ZRLDC.png" data-url="http://s3.uploads.ru/ZRLDC.png" class="bbImage" data-zoom-target="1" alt="" />
+	</div>
+
+<br />
+<b>Второй уровень</b><br />
+
+
+<div class="bbCodeSpoiler">
+	<button type="button" class="bbCodeSpoiler-button button" data-xf-click="toggle" data-xf-init="tooltip" title="Нажмите для открытия или скрытия спойлера"><span class="button-text">
+
+		<span>Спойлер</span>
+	</span></button>
+	<div class="bbCodeSpoiler-content">
+		<div class="bbCodeBlock bbCodeBlock--spoiler">
+			<div class="bbCodeBlock-content"><b>Возможность выхода из Черного списка, спустя четыре месяца с момента занесения, за следующие нарушения:</b><br />
+- Неадекватно себя вели, мат, оскорбления сотрудников правительства;<br />
+- Подделывали отчеты о работе;<br />
+- Использовали оружие в личных целях;<br />
+- Стреляли по гражданским.</div>
+		</div>
+	</div>
+</div>
+	
+	
+		
+		
+	
+
+
+	<div class="lbContainer lbContainer--inline"
+		data-xf-init="lightbox"
+		data-lb-single-image="1"
+		data-lb-container-zoom="1"
+		data-lb-trigger=".js-lbImage-_xfUid-4-1529482937"
+		data-lb-id="_xfUid-4-1529482937">
+		
+			<div class="lbContainer-zoomer js-lbImage-_xfUid-4-1529482937" data-src="http://s3.uploads.ru/ZRLDC.png" aria-label="Zoom"></div>
+		
+		<img src="http://s3.uploads.ru/ZRLDC.png" data-url="http://s3.uploads.ru/ZRLDC.png" class="bbImage" data-zoom-target="1" alt="" />
+	</div>
+
+<br />
+<b>Третий уровень</b><br />
+
+
+<div class="bbCodeSpoiler">
+	<button type="button" class="bbCodeSpoiler-button button" data-xf-click="toggle" data-xf-init="tooltip" title="Нажмите для открытия или скрытия спойлера"><span class="button-text">
+
+		<span>Спойлер</span>
+	</span></button>
+	<div class="bbCodeSpoiler-content">
+		<div class="bbCodeBlock bbCodeBlock--spoiler">
+			<div class="bbCodeBlock-content"><b>Возможность выхода из Черного списка, спустя шесть месяцев с момента занесения, за следующие нарушения:</b><br />
+- Оскорбили, унизили Президента, Мэра, высший состав сотрудников правительства, а также Правительство как фракцию;<br />
+- Распространяли конфиденциальную информацию об опечатанных домах;<br />
+- Грубо нарушали правила сервера;<br />
+- Использовали должностные полномочия в личных целях;<br />
+- Покушались на жизнь сотрудников Правительства.</div>
+		</div>
+	</div>
+</div>
+	
+	
+		
+		
+	
+
+
+	<div class="lbContainer lbContainer--inline"
+		data-xf-init="lightbox"
+		data-lb-single-image="1"
+		data-lb-container-zoom="1"
+		data-lb-trigger=".js-lbImage-_xfUid-5-1529482937"
+		data-lb-id="_xfUid-5-1529482937">
+		
+			<div class="lbContainer-zoomer js-lbImage-_xfUid-5-1529482937" data-src="http://s3.uploads.ru/ZRLDC.png" aria-label="Zoom"></div>
+		
+		<img src="http://s3.uploads.ru/ZRLDC.png" data-url="http://s3.uploads.ru/ZRLDC.png" class="bbImage" data-zoom-target="1" alt="" />
+	</div>
+
+</span></span>&#8203;</div><span style="font-size: 12px"><span style="text-decoration: underline"><span style="font-family: 'Trebuchet MS'">Первый уровень</span></span><br />
+<span style="font-family: 'Trebuchet MS'">
+	
+	
+
+
+<div class="bbCodeBlock bbCodeBlock--screenLimited bbCodeBlock--code">
+	<div class="bbCodeBlock-title">
+		Код:
+	</div>
+	<div class="bbCodeBlock-content" dir="ltr">
+		<pre class="bbCodeCode" dir="ltr" data-xf-init="code-block" data-lang=""><code>Xanax_Lakers [692671] [30.03.18] Неадекватное поведение.
+Albert_Ruberstein [56427] [21.04.2018] Не отстоял 14 дней (судья).
+Mellissa_Jennings [1287592] [21.04.2018] Не отстояла 14 дней (советник).
+Svetlana_Wiberg [792638] [21.04.2018] Не отстояла 14 дней (советник).
+Kirill_Kolcov [1309388] [26.04.2018] Подделка подписи Президента (апелляции).
+Bruce_Dwight [1112851] [26.04.2018] Оскорбление Президента. 
+Christopher_Benson [509236] [27.04.2018] Не отстоял 14 дней (советник).
+Brain_Chehovich [949061] [03.05.2018] Не отстоял 14 дней (советник).
+Tano_Fraser [неизвестен] [03.05.2018] Не отстоял 14 дней (советник).
+Danil_Tokarev [247665] [03.05.2018] Не отстоял 14 дней (советник).
+Nate_Chehovich [421649] [21.05.2018] Не отстоял 14 дней (советник).
+Amato_Ferrari [734564] [01.06.2018] Не отстоял 14 дней (советник).
+Ruggerio_Monti [1394944] [13.06.2018] ввел в заблуждение  высший состав Правительства.</code></pre>
+	</div>
+</div></span></span><span style="font-size: 12px"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="text-decoration: underline"><span style="font-family: 'Trebuchet MS'">Второй уровень</span></span><br />
+<span style="font-family: 'Trebuchet MS'">
+	
+	
+
+
+<div class="bbCodeBlock bbCodeBlock--screenLimited bbCodeBlock--code">
+	<div class="bbCodeBlock-title">
+		Код:
+	</div>
+	<div class="bbCodeBlock-content" dir="ltr">
+		<pre class="bbCodeCode" dir="ltr" data-xf-init="code-block" data-lang=""><code>Willy_Helton [309525] [31.01.18] Стрельба по гражданским. 
+Fedele_Florenco [1358866] [31.01.18] Стрельба по гражданским. 
+Berry_Thomson [676714 ] [13.06.18]  Неадекватно себя вели, мат. 
+Andrian_Skvortcov [Неизвестен] [04.02.18] Нападение на гражданских. 
+Emiliano_Avogadro [Неизвестен] [04.02.18] Стрельба по сотрудникам МВД.
+Denis_Medici [1341892] [06.02.18] Нападение на сотрудников МВД при аресте. 
+Sebastian_Miller [1116072] [12.02.18] Стрельба по сотруднику МВД. 
+Carmelo_Anthony [92886] [12.02.18] Стрельба по сотруднику МВД. 
+Alberto_Ferrari [Неизвестен] [16.02.18] Оск. граждан. Неадекватное поведение, мат.
+Roger_Canello [1261247] [18.02.18] Стрельба по сотрудникам МВД.
+Nikolay_Kaverin [1382597] [27.02.18] Стрельба по гражданским.
+Stefani_Cox [1327755] [28.02.18] Оскорбление сотрудников.
+Johny_Boone [1278171] [06.03.18] Оскорбление сотрудников.
+Ozzy_Rentaro [1362972] [14.03.18] Использовали оружие в личных целях.
+Dmitriy_Vileckiy [Неизвестен] [14.03.18] Оскорбление сотрудника МВД
+James_Brayn [1359615] [15.03.18] Оскорбление сотрудника правительства.
+Pavel_Mogilev [1373286][19.03.2018] Оскорбление сотрудника правительства.
+Egor_Hachikovich [1277434] [21.03.2018] Оскорбление сотрудника правительства.
+Vitto_Salieri [1130315] [21.03.2018] Оскорбление сотрудника МВД.
+Maximus_Meridius [632443] [09.04.2018] Оскорбление сотрудника правительства.
+Loonie_Stone [934554] [17.04.2018] Оскорбление сотрудника МВД.
+Jordan_Ltseer [1377927] [17.04.2018] Нападение на гражданских.
+Alexandr_Sobolev [1366113] [17.04.2018] Стрельба по сотруднику МВД.
+Xavier_Caesar [95205] [18.04.2018] Нападение на гражданских.
+Oleg_Bobrov [1184006] [20.04.2018] Неадекватное поведение, оскорбление сотрудников правительства.
+Artur_White [845989] [21.04.2018] Подделка подписи мэра.
+Abraham_Squeezy [1275948] [21.04.2018] Стрельба по сотрудникам МВД.
+Takamoto_Nagawa [138965] [19.05.2018] Нападение на гражданских
+Sergo_Basota [1375566] [19.05.2018] Нападение на гражданских.
+Mike_Chilli [1183989] [31.05.2018] Стрельба по сотрудникам МВД.
+Scrooge_McQueen [1207471] [01.06.2018] Стрельба по сотрудникам МВД.
+Kooji_Matsuda [1303775] [03.06.2018] Стрельба по гражданским.
+David_Druz [632500] [04.06.2018] Стрельба по сотрудникам МВД.
+Martin_Miller [1386073] [07.06.2018] Стрельба по гражданским.
+Misha_Fokin [917701] [11.06.2018]  Неадекватное поведение, оскорбление сотрудников правительства.
+Kizaru_Ross [1158052] [11.06.2018] Стрельба по гражданским.
+Bulat_Volkov [1189570] [14.06.2018] Oскорбление сотрудников правительства.
+Denis_Davydov [1403790] [19.06.2018] - Подделывали отчеты о работе</code></pre>
+	</div>
+</div><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="text-decoration: underline"><span style="font-family: 'Trebuchet MS'">Третий уровень</span></span><br />
+<span style="font-family: 'Trebuchet MS'">
+	
+	
+
+
+<div class="bbCodeBlock bbCodeBlock--screenLimited bbCodeBlock--code">
+	<div class="bbCodeBlock-title">
+		Код:
+	</div>
+	<div class="bbCodeBlock-content" dir="ltr">
+		<pre class="bbCodeCode" dir="ltr" data-xf-init="code-block" data-lang=""><code>Link_Gymanoidovich [979401] [Без выноса] - Неоднократное покушение на сотрудников правительства.
+Alex_Frens [374542] [Без выноса] - грубые нарушения правил сервера (ДМ + ТК)
+Albderto_Delucciani [1317434] [Без выноса] - грубые нарушение КН. (12, 11 и 19 пункты)
+Renat_Nagoev [1193974] [Без выноса] - многократные нарушения КН (12, 13 и 29 пункты)
+Sanches_Fernando [1080812] [Без выноса] - грубые нарушение КН. (7, 12 и 29 пункты)
+Allison_Larens [Неизвестен] [Без выноса] - грубые нарушение КН. (2, 3, 8, 18 и 20 пункты)
+Rosario_Lorenso [1063827] [Без выноса] - нападение на гражданских + нанесение увечий сотр. Мэрии
+Sasha_Podyachev [1123625] [Без выноса] - грубые нарушение КН. (7, 12 и 29 пункты)
+Akahio_Sudzuki [1258699] [Без выноса] - грубые нарушение КН. (18 и 29 пункты)
+Kota_Fukuda [1235295] [Без выноса] - нападение на Президента.
+Johann_Strauss [1154199] [Без выноса] - грубые нарушение КН. (18 и 29 пункты)
+Henry_Vercetti [1127348] [30.11.17] Нападение на сотрудников МВД
+Pavel_Sanko [1278674] [30.11.17] Нападение на сотрудников МВД
+Amanda_Parcer [1212339] [30.11.17] Нападение на сотрудников МВД
+Jon_Macaroni [569080] [02.11.17] Нападение на сотрудников Правительства
+David_Cartez [1284610] [08.12.17] Нападение на сотрудников Правительства.
+Dmitry_Galileo [1305314] [12.12.17] Обман Президента штата.
+Yuuto_Shimoto [818038] [12.12.17] Обман Президента штата.
+Dimasik_Korabelskyi [1182555] [14.12.2017] Подделка документоа
+Vlad_Lessard [1294881] [26.12.2017] Вооруженное нападение на сотрудников мэрии
+Frenk_Rust [1171728] [02.01.2018] Покушение на сотрудника мэрии.
+Raveo_Benitez [1240739] [03.01.2018] Покушение на сотрудника мэрии
+Kostya_Bazik [Неизвестен] [08.01.2018] Оскорбление Президента
+Nikita_Sanko [1179156] [13.01.2018] Покушение на Президента 
+Rikuto_Endo [812071] [24.01.18] Покушение на Мэра. 
+Carl_Birds [Неизвестен]  [24.01.18] Оскорбление высшего состава. 
+Alena_Vays [1345862] [27.01.18] Покушение на жизнь сотрудников Правительства.
+Kenny_Santos [925611] [28.01.18] Покушение на жизнь сотрудников Правительства. 
+Amina_Malko [969443] [30.01.18] Нападение на Президента.
+Barry_Underwood [1309195] [01.02.18] Оскорбление Президента. 
+Don_Revise [946304] [08.02.18] Оскорбление Правительства.
+Anton_Lebedev [414321] [12.02.18] Оск. Мэра 
+Dino_Ramirez [Неизвестен] [Без выноса] - Слив сотрудников. 
+Victor_Moore [1212362] [15.02.18] Нападение на Мэра.
+Nedgi_Utiha [988866] [18.02.18] Оск. Президента. 
+Gore_Mika [1346173] [21.02.18] Оск. Президента. 
+Kenshi_Uchiha [1326924] [22.02.18] Оск. Президента. 
+Richard_Mitchell [1358022] [22.02.18] Нападение на Президента.
+Travis_Herrera [561315] [24.02.18] Оскорбление высшего состава.
+Ivan_Kropachev [Неизвестен] [02.03.2018] Покушение на жизнь сотрудников Правительства.
+Sonie_Friese [798970] [06.03.2018] Покушение на жизнь сотрудников Правительства.
+Lloyd_Rockstar [1054231] [06.03.2018] Оскорбление президента.
+Roberto_Mello [Неизвестен] [06.03.2018] Оскорбление президента.
+Marian_Tomas [458159] [14.03.2018]  Покушение на жизнь сотрудников Правительства.
+Ivan_Doomfer [163601] [14.03.2018] Оскорбление высшего состава.
+Kuzma_Gridin [1338599] [15.03.2018] Нарушение правил сервера ( DM ZZ )
+Vladislav_Bellov [1235466] [16.03.2018] Оскорбление высшего состава.
+Logan_Parker [775489] [19.03.2018] Нарушение правил сервера (TK+DM ZZ).
+Danila_Kozlovsky [583176] [19.03.2018] Покушение на жизнь сотрудника правительства.
+Robert_Shelton [1326797] [21.03.2018] Нарушение правил сервера ( Офф от ареста ).
+Antonio_Marino [635245] [23.03.2018] Нарушение правила сервера ( ТК + DM ZZ ).
+Bernardo_Stewart [1258998] [29.03.2018] Нарушение правил сервера ( ТК + DM ZZ).
+Steve_Mowee [1337416] [06.04.2018] Оскорбление высшего состава Мэрии.
+Wolfgang_Rothshield [949111] [09.04.2018] Нарушение правил сервера
+Carl_Jharson [951701] [17.04.2018] Оскорбление мэра и нападение на мэра.
+Den_Smok [829536] [20.04.2018] Неадекватное поведение, оскорбление сотрудников высшего состава.
+Fedor_Trofimov [1263632] [21.04.2018] Нападение на сотрудников Правительства.
+Ivo_Romano [50180] [01.05.2018] Нападение на сотрудников Правительства.
+Stasi_Belov [1088346] [01.05.2018] Оскорбление высшего состава Мэрии.
+Jeffrey_Moriarty [1042196] [01.05.2018] Нападение на сотрудников высшего состава Правительства и оскорбление.
+Hideo_Mute [1398251] [10.05.2018] Нападение на сотрудников высшего состава Правительства.
+Takeo_Okada [291190] [10.05.2018] Нападение на сотрудников высшего состава Правительства.
+Adriano_Gradienko [1365146] [12.05.2018] Нападение на сотрудников высшего состава Правительства.
+Nikita_Koja [1045638] [15.05.2018] Нападение на сотрудника Правительства.
+Genri_Hazanberg [1405793] [19.05.2018] Нападение на сотрудника Правительства.
+Bernard_Winston [1402651] [19.05.2018] Нападение на сотрудника Правительства.
+Luca_Bonetti [891451] [23.05.2018] Нарушение правил сервера.
+Anton_Glock [1173812] [23.05.2018] Нарушение правил сервера.
+Danielo_Huarache [1398560] [24.05.2018] Нападение на сотрудника Правительства.
+Alberto_Bertone [764662] [30.05.2018] Оскорбление высшего состава Правительства.
+Artem_Famasov [1230528] [04.06.2018] Обман Мэра.
+Santi_Luchetti [1274693] [07.06.2018] Оскорбление Мэра.
+Fausto_Torregrossa [989141] [11.06.2018]  Нападение на сотрудников высшего состава Правительства.
+Sasha_Gollardo [ 445468] [11.06.2018]  Нападение на сотрудников МВД
+Miguel_Ford [477940] [11.06.2018]  Оскорбление сотрудника Правительства.
+Vladislav_Milash [1412670] [19.06.2018]  Грубо нарушали правила сервера;</code></pre>
+	</div>
+</div></span></span></span></span></span></span></span></span><div style="text-align: center"><span style="font-size: 12px"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'">Форма подачи заявления на внесение человека в ЧС (чёрный список):</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>&#8203;</div><span style="font-size: 12px"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'">1. Ваши Имя и Фамилия:<br />
+<span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'">2. Имя и Фамилия нарушителя:<br />
+3. Номер аккаунта нарушителя: <br />
+4. Суть нарушения:<br />
+5. Доказательства:</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br />
+<br />
+<br />
+<div style="text-align: center"><span style="font-size: 12px"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'">Для подачи заявления на внесение в Черный Список Правительства,<br />
+обязательным пунктом является наличие доказательства. Без доказательств занесение невозможно.<br />
+На видео должно быть зафиксировано само нарушение,<br />
+также требуется /c 060, /id Nickname или /id [id], открыть Tab и найти ник нарушителя.</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br />
+<span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-family: 'Trebuchet MS'"><span style="font-size: 12px"><b><i>[<span style="color: #ff0000">!</span>] Жалоба проверяется в течение 3 дней.</i></b></span></span></span></span></span></span></span></span></span>&#8203;</div></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+								
+
+	
+
+							
+
+							
+						</div>
+
+						
+							<div class="message-lastEdit">
+								
+									Последнее редактирование модератором: <time  class="u-dt" dir="auto" datetime="2018-06-19T12:41:37+0300" data-time="1529401297" data-date-string="19 Июн 2018" data-time-string="12:41" title="19 Июн 2018 в 12:41">Вчера в 12:41</time>
+								
+							</div>
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/16799148/likes" data-xf-click="overlay">Это понравилось <bdi>ғᴇʀɴᴀɴᴅᴏ ᴇʟᴄᴀɴᴏ</bdi>, <bdi>John Pierce Ⓒ</bdi>, <span>JamesRoberts</bdi> и 5 другим</a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="ᴇᴅᴡᴀʀᴅ ᴅᴡɪɢнт"
+		data-content="post-17285524"
+		id="js-post-17285524">
+
+		<span class="u-anchorTarget" id="post-17285524"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/nt.597507/" class="avatar avatar--m" data-user-id="597507" data-xf-init="member-tooltip">
+			<img src="/data/avatars/m/597/597507.jpg?1519688494" srcset="/data/avatars/l/597/597507.jpg?1519688494 2x" alt="ᴇᴅᴡᴀʀᴅ ᴅᴡɪɢнт" class="avatar-u597507-m" itemprop="image" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/nt.597507/" class="username " dir="auto" data-user-id="597507" data-xf-init="member-tooltip" itemprop="name"><span class="username--style15">ᴇᴅᴡᴀʀᴅ ᴅᴡɪɢнт</span></a></h4>
+			<h5 class="userTitle message-userTitle" dir="auto" itemprop="jobTitle">1tap.exe</h5>
+			<div class="userBanner userBanner checkedpeople message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Проверенные</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17285524" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-05-10T00:46:16+0300" data-time="1494366376" data-date-string="10 Май 2017" data-time-string="00:46" title="10 Май 2017 в 00:46">10 Май 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17285524" class="u-concealed" rel="nofollow">#2</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>54</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>6,485</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>333</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17285524" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-05-10T00:46:16+0300" data-time="1494366376" data-date-string="10 Май 2017" data-time-string="00:46" title="10 Май 2017 в 00:46">10 Май 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17285524" class="u-concealed" rel="nofollow">#2</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-17285524"
+							data-lb-caption-desc="ᴇᴅᴡᴀʀᴅ ᴅᴡɪɢнт &middot; 10 Май 2017 в 00:46">
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper"><div style="text-align: center"><span style="font-family: 'Georgia'"><span style="font-size: 15px"><i>Обновленo.</i></span></span>&#8203;</div></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+
+							
+						</div>
+
+						
+							<div class="message-lastEdit">
+								
+									Последнее редактирование: <time  class="u-dt" dir="auto" datetime="2017-05-29T17:49:44+0300" data-time="1496069384" data-date-string="29 Май 2017" data-time-string="17:49" title="29 Май 2017 в 17:49">29 Май 2017</time>
+								
+							</div>
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/17285524/likes" data-xf-click="overlay">Это понравилось <bdi>Vladislavovich</bdi> и <bdi>Vladimir_Kovalskiy</bdi></a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="КатапультаЛюбвиИХаризмы"
+		data-content="post-17299928"
+		id="js-post-17299928">
+
+		<span class="u-anchorTarget" id="post-17299928"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/katapultaljubviixarizmy.550347/" class="avatar avatar--m" data-user-id="550347" data-xf-init="member-tooltip">
+			<img src="/data/avatars/m/550/550347.jpg?1481203622"  alt="КатапультаЛюбвиИХаризмы" class="avatar-u550347-m" itemprop="image" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/katapultaljubviixarizmy.550347/" class="username " dir="auto" data-user-id="550347" data-xf-init="member-tooltip" itemprop="name">КатапультаЛюбвиИХаризмы</a></h4>
+			
+			<div class="userBanner userBanner userBanner--silver message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Новички</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17299928" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-05-11T19:50:11+0300" data-time="1494521411" data-date-string="11 Май 2017" data-time-string="19:50" title="11 Май 2017 в 19:50">11 Май 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17299928" class="u-concealed" rel="nofollow">#3</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>13</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>1,393</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>188</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17299928" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-05-11T19:50:11+0300" data-time="1494521411" data-date-string="11 Май 2017" data-time-string="19:50" title="11 Май 2017 в 19:50">11 Май 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17299928" class="u-concealed" rel="nofollow">#3</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-17299928"
+							data-lb-caption-desc="КатапультаЛюбвиИХаризмы &middot; 11 Май 2017 в 19:50">
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper">Уберите Ilya_Gymanoidovich уже прошло 4 месяца<br />
+<br />
+
+
+<div class="bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote">
+	
+	<div class="bbCodeBlock-content">
+		<div class="bbCodeBlock-expandContent">
+			<span style="font-family: 'Georgia'">Президент <span style="color: #0000b3">Edward Dwight</span>: <br />
+34. Ilya Gymanoidovich [09.01.2017] - <span style="text-decoration: underline">Использование оружия в личный целях. Неадекватное поведение.</span> Вынес из второго уровня по истечению четырех месяцев. При повторных нарушениях подобного рода, будете занесены на более долгий срок.</span>
+		</div>
+		<div class="bbCodeBlock-expandLink"><a>Нажмите для раскрытия...</a></div>
+	</div>
+</div></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+
+							
+						</div>
+
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/17299928/likes" data-xf-click="overlay">Это понравилось <bdi>Vladislavovich</bdi></a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="Eligio Life"
+		data-content="post-17362892"
+		id="js-post-17362892">
+
+		<span class="u-anchorTarget" id="post-17362892"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/eligio-life.547318/" class="avatar avatar--m" data-user-id="547318" data-xf-init="member-tooltip">
+			<img src="/data/avatars/m/547/547318.jpg?1500304043" srcset="/data/avatars/l/547/547318.jpg?1500304043 2x" alt="Eligio Life" class="avatar-u547318-m" itemprop="image" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/eligio-life.547318/" class="username " dir="auto" data-user-id="547318" data-xf-init="member-tooltip" itemprop="name"><span class="username--style15">Eligio Life</span></a></h4>
+			<h5 class="userTitle message-userTitle" dir="auto" itemprop="jobTitle">#LifeFamily</h5>
+			<div class="userBanner userBanner checkedpeople message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Проверенные</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17362892" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-05-18T23:18:10+0300" data-time="1495138690" data-date-string="18 Май 2017" data-time-string="23:18" title="18 Май 2017 в 23:18">18 Май 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17362892" class="u-concealed" rel="nofollow">#4</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>51</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>157</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>173</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17362892" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-05-18T23:18:10+0300" data-time="1495138690" data-date-string="18 Май 2017" data-time-string="23:18" title="18 Май 2017 в 23:18">18 Май 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17362892" class="u-concealed" rel="nofollow">#4</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-17362892"
+							data-lb-caption-desc="Eligio Life &middot; 18 Май 2017 в 23:18">
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper">1. Ваши Имя и Фамилия: Eligio Salieri<br />
+2. Имя и Фамилия нарушителя: Daniel Ostin<br />
+3. Суть нарушения: ДМ в зз<br />
+4. Доказательства: <div class="bbMediaWrapper">
+	<div class="bbMediaWrapper-inner">
+		<iframe src="https://www.youtube.com/embed/PY3NVehVIYE?wmode=opaque&start=0"
+				width="560" height="315"
+				frameborder="0" allowfullscreen="true"></iframe>
+	</div>
+</div><br />
+
+
+<div class="bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote">
+	
+	<div class="bbCodeBlock-content">
+		<div class="bbCodeBlock-expandContent">
+			<span style="font-family: 'Georgia'">Президент <span style="color: #0000ff">Edward Dwight</span>: Второй уровень.</span>
+		</div>
+		<div class="bbCodeBlock-expandLink"><a>Нажмите для раскрытия...</a></div>
+	</div>
+</div></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+
+							
+						</div>
+
+						
+							<div class="message-lastEdit">
+								
+									Последнее редактирование модератором: <time  class="u-dt" dir="auto" datetime="2017-05-19T15:08:36+0300" data-time="1495195716" data-date-string="19 Май 2017" data-time-string="15:08" title="19 Май 2017 в 15:08">19 Май 2017</time>
+								
+							</div>
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/17362892/likes" data-xf-click="overlay">Это понравилось <bdi>Vladislavovich</bdi></a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="Eligio Life"
+		data-content="post-17370158"
+		id="js-post-17370158">
+
+		<span class="u-anchorTarget" id="post-17370158"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/eligio-life.547318/" class="avatar avatar--m" data-user-id="547318" data-xf-init="member-tooltip">
+			<img src="/data/avatars/m/547/547318.jpg?1500304043" srcset="/data/avatars/l/547/547318.jpg?1500304043 2x" alt="Eligio Life" class="avatar-u547318-m" itemprop="image" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/eligio-life.547318/" class="username " dir="auto" data-user-id="547318" data-xf-init="member-tooltip" itemprop="name"><span class="username--style15">Eligio Life</span></a></h4>
+			<h5 class="userTitle message-userTitle" dir="auto" itemprop="jobTitle">#LifeFamily</h5>
+			<div class="userBanner userBanner checkedpeople message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Проверенные</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17370158" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-05-19T22:44:27+0300" data-time="1495223067" data-date-string="19 Май 2017" data-time-string="22:44" title="19 Май 2017 в 22:44">19 Май 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17370158" class="u-concealed" rel="nofollow">#5</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>51</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>157</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>173</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17370158" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-05-19T22:44:27+0300" data-time="1495223067" data-date-string="19 Май 2017" data-time-string="22:44" title="19 Май 2017 в 22:44">19 Май 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17370158" class="u-concealed" rel="nofollow">#5</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-17370158"
+							data-lb-caption-desc="Eligio Life &middot; 19 Май 2017 в 22:44">
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper">2. Arturo Angelo [26.01.2017] - Обманывал высший состав правительства.<br />
+3. Donato Salieri [25.02.2017] - Не отработал 14 дней на должности советника, был уволен по статье.<br />
+4. Andrew Repetto [25.02.2017] - Не отработал 14 дней на должности советника, был уволен по статье.<br />
+<br />
+<span style="font-size: 18px"><span style="color: #ff0000">Вынесите данных людей из ЧС правительства, причина: 2 месяца истекло</span></span></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+
+							
+						</div>
+
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/17370158/likes" data-xf-click="overlay">Это понравилось <bdi>Vladislavovich</bdi></a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="Eligio Life"
+		data-content="post-17370172"
+		id="js-post-17370172">
+
+		<span class="u-anchorTarget" id="post-17370172"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/eligio-life.547318/" class="avatar avatar--m" data-user-id="547318" data-xf-init="member-tooltip">
+			<img src="/data/avatars/m/547/547318.jpg?1500304043" srcset="/data/avatars/l/547/547318.jpg?1500304043 2x" alt="Eligio Life" class="avatar-u547318-m" itemprop="image" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/eligio-life.547318/" class="username " dir="auto" data-user-id="547318" data-xf-init="member-tooltip" itemprop="name"><span class="username--style15">Eligio Life</span></a></h4>
+			<h5 class="userTitle message-userTitle" dir="auto" itemprop="jobTitle">#LifeFamily</h5>
+			<div class="userBanner userBanner checkedpeople message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Проверенные</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17370172" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-05-19T22:45:53+0300" data-time="1495223153" data-date-string="19 Май 2017" data-time-string="22:45" title="19 Май 2017 в 22:45">19 Май 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17370172" class="u-concealed" rel="nofollow">#6</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>51</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>157</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>173</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17370172" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-05-19T22:45:53+0300" data-time="1495223153" data-date-string="19 Май 2017" data-time-string="22:45" title="19 Май 2017 в 22:45">19 Май 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17370172" class="u-concealed" rel="nofollow">#6</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-17370172"
+							data-lb-caption-desc="Eligio Life &middot; 19 Май 2017 в 22:45">
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper">26.Lyck Skayvoker [22.12.2016] - Стрельба по гражданским.<br />
+31. Natasha Masson [2.01.2017] - мат в рацию.<br />
+32. Artem Zovarov [04.01.2017] - Огонь без причины. Неадекватное поведение.<br />
+33. Jinin Widin [05.01.2017] - Стрельба по гражданским.<br />
+35. Artyom Chelyev [18.01.2017] - Неадекватно себя вёл, мат.<br />
+46. Sergey Akchurin [01.12.2016] - Подделка отчётов о работе<br />
+47. Dmitry Jimbov [10.12.2016] - Подделка отчётов о работе<br />
+48. Andrey Kazakow [13.12.2016] - Неадекватное поведение в рации<br />
+49. Odon Emillio [13.12.2016] - Огонь без причины, неадекватное поведение<br />
+50. Vasy Petrushkyn [15.12.2016] - Стрельба по гражданским<br />
+<br />
+<span style="font-size: 18px"><span style="color: #ff0000">Вынесите данных людей из ЧС правительства, причина: 4 месяца прошло</span></span></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+
+							
+						</div>
+
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/17370172/likes" data-xf-click="overlay">Это понравилось <bdi>Vladislavovich</bdi></a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="Eligio Life"
+		data-content="post-17370238"
+		id="js-post-17370238">
+
+		<span class="u-anchorTarget" id="post-17370238"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/eligio-life.547318/" class="avatar avatar--m" data-user-id="547318" data-xf-init="member-tooltip">
+			<img src="/data/avatars/m/547/547318.jpg?1500304043" srcset="/data/avatars/l/547/547318.jpg?1500304043 2x" alt="Eligio Life" class="avatar-u547318-m" itemprop="image" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/eligio-life.547318/" class="username " dir="auto" data-user-id="547318" data-xf-init="member-tooltip" itemprop="name"><span class="username--style15">Eligio Life</span></a></h4>
+			<h5 class="userTitle message-userTitle" dir="auto" itemprop="jobTitle">#LifeFamily</h5>
+			<div class="userBanner userBanner checkedpeople message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Проверенные</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17370238" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-05-19T22:52:12+0300" data-time="1495223532" data-date-string="19 Май 2017" data-time-string="22:52" title="19 Май 2017 в 22:52">19 Май 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17370238" class="u-concealed" rel="nofollow">#7</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>51</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>157</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>173</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17370238" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-05-19T22:52:12+0300" data-time="1495223532" data-date-string="19 Май 2017" data-time-string="22:52" title="19 Май 2017 в 22:52">19 Май 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17370238" class="u-concealed" rel="nofollow">#7</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-17370238"
+							data-lb-caption-desc="Eligio Life &middot; 19 Май 2017 в 22:52">
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper">28. Oleg Nazarov [22.09.2016] - обман сотрудников Мэрии.<br />
+29. Sergio Champ [30.09.2016] - Оскорбление Мэра<br />
+30. Pasha Rise [06.10.2016] - Оскорбление Президента<br />
+31. David Druz [03.10.2016] &quot;TK&quot;<br />
+32. Akio Kitamura [03.10.2016] - Оскорбление<br />
+33. Sai Oshiro  [07.10.2016] - Оскорбление<br />
+34.Alef Primp [14.10.2016] - Нападение на сотрудника Правительства.<br />
+35. Den Gold [14.10.16] -Стрельба по сотрудникам мэрии.<br />
+<br />
+<span style="font-size: 18px"><span style="color: #ff0000">Вынесите данных людей из ЧС правительства, причина: 6 месяцев прошло<br />
+</span><br />
+</span>
+
+<div class="bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote">
+	
+	<div class="bbCodeBlock-content">
+		<div class="bbCodeBlock-expandContent">
+			<span style="font-family: 'Georgia'"><span style="font-size: 12px"><i><span style="color: #000000">Президент </span><span style="color: #0000ff">Edward Dwight</span><span style="color: #000000">: Ответ по всем трем заявкам. Будут вынесены при обновлении темы.</span></i></span></span>
+		</div>
+		<div class="bbCodeBlock-expandLink"><a>Нажмите для раскрытия...</a></div>
+	</div>
+</div></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+
+							
+						</div>
+
+						
+							<div class="message-lastEdit">
+								
+									Последнее редактирование модератором: <time  class="u-dt" dir="auto" datetime="2017-05-22T21:47:24+0300" data-time="1495478844" data-date-string="22 Май 2017" data-time-string="21:47" title="22 Май 2017 в 21:47">22 Май 2017</time>
+								
+							</div>
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/17370238/likes" data-xf-click="overlay">Это понравилось <bdi>Vladislavovich</bdi></a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="Vladimir Baev"
+		data-content="post-17383782"
+		id="js-post-17383782">
+
+		<span class="u-anchorTarget" id="post-17383782"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/vladimir-baev.476813/" class="avatar avatar--m" data-user-id="476813" data-xf-init="member-tooltip">
+			<img src="/data/avatars/m/476/476813.jpg?1529309376" srcset="/data/avatars/l/476/476813.jpg?1529309376 2x" alt="Vladimir Baev" class="avatar-u476813-m" itemprop="image" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/vladimir-baev.476813/" class="username " dir="auto" data-user-id="476813" data-xf-init="member-tooltip" itemprop="name"><span class="username--style15">Vladimir Baev</span></a></h4>
+			<h5 class="userTitle message-userTitle" dir="auto" itemprop="jobTitle">♝♜♛♚MASON♚♛♜♝</h5>
+			<div class="userBanner userBanner checkedpeople message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Проверенные</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17383782" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-05-21T15:00:28+0300" data-time="1495368028" data-date-string="21 Май 2017" data-time-string="15:00" title="21 Май 2017 в 15:00">21 Май 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17383782" class="u-concealed" rel="nofollow">#8</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>132</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>1,527</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>333</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17383782" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-05-21T15:00:28+0300" data-time="1495368028" data-date-string="21 Май 2017" data-time-string="15:00" title="21 Май 2017 в 15:00">21 Май 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17383782" class="u-concealed" rel="nofollow">#8</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-17383782"
+							data-lb-caption-desc="Vladimir Baev &middot; 21 Май 2017 в 15:00">
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper">1. Ваши Имя и Фамилия: Vladimir Baev (Федеральный Судебный Надзор)<br />
+2. Имя и Фамилия нарушителя: Marsello West<br />
+3. Суть нарушения: Превышение должностных прав (Блат)<br />
+Данный сотрудник, руководил мэрией СФ с 13.03.2017 по 12.04.2017.<br />
+Сотрудница Виктория Стимер продала с 25.03.2017 по 28.03.2017 всего 23 лицензии, данная сотрудника была после чего повышена в должность с 6 по 7.<br />
+Так же, данная сотрудница не получала выговор за постоянный недобор рабочего  времени.<br />
+Против неё никаких действий не принимала Мэрия СФ под руководством вышеупомянутого.<br />
+<b><span style="color: #ff0000">[!]</span><span style="text-decoration: underline"> Федеральный Судебный Надзор требует исключения Marsello West из белого списка, добавить его в чёрный список и отправить его в отставку с данной работы в правительстве. </span></b><br />
+<br />
+(Даты: Виктория Стимер -&gt; с 25.04.2017 по 28.04.2017)<br />
+(Дата руководства Маршала -&gt; с 13.03.2017 по 12.04.2017)<br />
+4. Доказательства: <a href="https://forum.advance-rp.ru/threads/pravitelstvo-federalnyj-sudebnyj-nadzor.1365472/" class="link link--internal" data-proxy-href="/proxy.php?link=https%3A%2F%2Fforum.advance-rp.ru%2Fthreads%2Fpravitelstvo-federalnyj-sudebnyj-nadzor.1365472%2F&amp;hash=8855e3f255c575fbc277226de48c12e1">Протокол ФСН №1, сверьте по автоотчёту даты.</a><br />
+<br />
+
+
+<div class="bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote">
+	
+	<div class="bbCodeBlock-content">
+		<div class="bbCodeBlock-expandContent">
+			<span style="font-family: 'Georgia'"><i>Президент <span style="color: #0000ff">Edward Dwight</span></i>: По поводу блата данного Мэра ничего не могу сказать,т.к не я лично следил за его работой,а другой президент-Alexander Stimer. Передам следящим,если вина будет доказана,они вынесут вердикт по поводу БС данной персоны.</span>
+		</div>
+		<div class="bbCodeBlock-expandLink"><a>Нажмите для раскрытия...</a></div>
+	</div>
+</div></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+
+							
+						</div>
+
+						
+							<div class="message-lastEdit">
+								
+									Последнее редактирование модератором: <time  class="u-dt" dir="auto" datetime="2017-05-22T21:45:13+0300" data-time="1495478713" data-date-string="22 Май 2017" data-time-string="21:45" title="22 Май 2017 в 21:45">22 Май 2017</time>
+								
+							</div>
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/17383782/likes" data-xf-click="overlay">Это понравилось <bdi>Vladislavovich</bdi>, <bdi>๖ۣۣۜCody ๖ۣۣۜYong</bdi> и <span>๖ۣۣۜMarsello ๖ۣۣۜWest♫</bdi></a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="Dmitry Kaverin"
+		data-content="post-17391773"
+		id="js-post-17391773">
+
+		<span class="u-anchorTarget" id="post-17391773"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/dmitry-kaverin.607520/" class="avatar avatar--m" data-user-id="607520" data-xf-init="member-tooltip">
+			<img src="/data/avatars/m/607/607520.jpg?1509253730" srcset="/data/avatars/l/607/607520.jpg?1509253730 2x" alt="Dmitry Kaverin" class="avatar-u607520-m" itemprop="image" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/dmitry-kaverin.607520/" class="username " dir="auto" data-user-id="607520" data-xf-init="member-tooltip" itemprop="name">Dmitry Kaverin</a></h4>
+			<h5 class="userTitle message-userTitle" dir="auto" itemprop="jobTitle">6⃣ 9⃣ 9⃣ 6⃣</h5>
+			<div class="userBanner userBanner userBanner--silver message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Пользователи</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17391773" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-05-22T13:51:45+0300" data-time="1495450305" data-date-string="22 Май 2017" data-time-string="13:51" title="22 Май 2017 в 13:51">22 Май 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17391773" class="u-concealed" rel="nofollow">#9</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>29</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>601</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>123</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17391773" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-05-22T13:51:45+0300" data-time="1495450305" data-date-string="22 Май 2017" data-time-string="13:51" title="22 Май 2017 в 13:51">22 Май 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17391773" class="u-concealed" rel="nofollow">#9</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-17391773"
+							data-lb-caption-desc="Dmitry Kaverin &middot; 22 Май 2017 в 13:51">
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper"><span style="font-family: 'Book Antiqua'">1. Ваши Имя и Фамилия: <span style="color: #00ff00">Seth Wayne</span><br />
+2. Имя и Фамилия нарушителя: <span style="color: #b3b300">Danielle Rugani</span><br />
+3. Суть нарушения: Ужас вообще, мешает каптам да еще и даунами нас называет!!!111! Наказать за гнилой базар и сказать ему чтоб так общался со своими кентами !!!!!!11111!<br />
+2 уровень чс ему плез)))<br />
+4. Доказательства:<div class="bbMediaWrapper">
+	<div class="bbMediaWrapper-inner">
+		<iframe src="https://www.youtube.com/embed/9kjYlHablJQ?wmode=opaque&start=0"
+				width="560" height="315"
+				frameborder="0" allowfullscreen="true"></iframe>
+	</div>
+</div><br />
+</span>
+
+<div class="bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote">
+	
+	<div class="bbCodeBlock-content">
+		<div class="bbCodeBlock-expandContent">
+			<span style="font-family: 'Georgia'"><i>Президент <span style="color: #0000ff">Edward Dwight</span>:</i></span><span style="font-family: 'Book Antiqua'"> За оскорбление второй уровень дается в этом случае.
+
+<div class="bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote">
+	
+		<div class="bbCodeBlock-title">
+			
+				<a href="/goto/post?id=16799148"
+					class="bbCodeBlock-sourceJump"
+					data-xf-click="attribution"
+					data-content-selector="#post-16799148">ᴊᴇʀʀʏ ʙʟᴀᴄкʙᴇʀʀʏ написал(а):</a>
+			
+		</div>
+	
+	<div class="bbCodeBlock-content">
+		<div class="bbCodeBlock-expandContent">
+			- Неадекватно себя вели, мат, оскорбления сотрудников правительства;
+		</div>
+		<div class="bbCodeBlock-expandLink"><a>Нажмите для раскрытия...</a></div>
+	</div>
+</div> Сотрудник уже получил свое наказание в виде увольнения.</span>
+		</div>
+		<div class="bbCodeBlock-expandLink"><a>Нажмите для раскрытия...</a></div>
+	</div>
+</div></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+
+							
+						</div>
+
+						
+							<div class="message-lastEdit">
+								
+									Последнее редактирование модератором: <time  class="u-dt" dir="auto" datetime="2017-05-22T21:42:56+0300" data-time="1495478576" data-date-string="22 Май 2017" data-time-string="21:42" title="22 Май 2017 в 21:42">22 Май 2017</time>
+								
+							</div>
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/17391773/likes" data-xf-click="overlay">Это понравилось <bdi>Vladislavovich</bdi> и <bdi>๖ۣۣۜCody ๖ۣۣۜYong</bdi></a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="DELLETED"
+		data-content="post-17501930"
+		id="js-post-17501930">
+
+		<span class="u-anchorTarget" id="post-17501930"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/delleted.440464/" class="avatar avatar--m" data-user-id="440464" data-xf-init="member-tooltip">
+			<img src="/data/avatars/m/440/440464.jpg?1518817955" srcset="/data/avatars/l/440/440464.jpg?1518817955 2x" alt="DELLETED" class="avatar-u440464-m" itemprop="image" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/delleted.440464/" class="username " dir="auto" data-user-id="440464" data-xf-init="member-tooltip" itemprop="name"><span class="username--style15">DELLETED</span></a></h4>
+			<h5 class="userTitle message-userTitle" dir="auto" itemprop="jobTitle">Пользователь не найден</h5>
+			<div class="userBanner userBanner checkedpeople message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Проверенные</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17501930" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-03T13:08:41+0300" data-time="1496484521" data-date-string="3 Июн 2017" data-time-string="13:08" title="3 Июн 2017 в 13:08">3 Июн 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17501930" class="u-concealed" rel="nofollow">#10</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>105</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>577</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>263</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17501930" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-03T13:08:41+0300" data-time="1496484521" data-date-string="3 Июн 2017" data-time-string="13:08" title="3 Июн 2017 в 13:08">3 Июн 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17501930" class="u-concealed" rel="nofollow">#10</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-17501930"
+							data-lb-caption-desc="DELLETED &middot; 3 Июн 2017 в 13:08">
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper">1. Ваши Имя и Фамилия: Nika Cookie<br />
+2. Имя и Фамилия нарушителя: Mike Jizzy<br />
+3. Суть нарушения: реформа 7, отработал только 2 часа на ССБ<br />
+4. Доказательства: <div class="bbMediaWrapper">
+	<div class="bbMediaWrapper-inner">
+		<iframe src="https://www.youtube.com/embed/FxMFU3GeFCs?wmode=opaque&start=0"
+				width="560" height="315"
+				frameborder="0" allowfullscreen="true"></iframe>
+	</div>
+</div><br />
+
+
+<div class="bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote">
+	
+	<div class="bbCodeBlock-content">
+		<div class="bbCodeBlock-expandContent">
+			<i><span style="font-family: 'Georgia'">Президент <span style="color: #0000ff">Edward Dwight</span>: Перечитайте еще раз содержание седьмой реформы.</span></i>
+		</div>
+		<div class="bbCodeBlock-expandLink"><a>Нажмите для раскрытия...</a></div>
+	</div>
+</div></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+
+							
+						</div>
+
+						
+							<div class="message-lastEdit">
+								
+									Последнее редактирование модератором: <time  class="u-dt" dir="auto" datetime="2017-06-03T14:32:20+0300" data-time="1496489540" data-date-string="3 Июн 2017" data-time-string="14:32" title="3 Июн 2017 в 14:32">3 Июн 2017</time>
+								
+							</div>
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/17501930/likes" data-xf-click="overlay">Это понравилось <bdi>Vladislavovich</bdi></a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="๖ۣۣۜCody ๖ۣۣۜYong"
+		data-content="post-17547198"
+		id="js-post-17547198">
+
+		<span class="u-anchorTarget" id="post-17547198"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/6cody-6yong.607607/" class="avatar avatar--m" data-user-id="607607" data-xf-init="member-tooltip">
+			<img src="/data/avatars/m/607/607607.jpg?1505298772" srcset="/data/avatars/l/607/607607.jpg?1505298772 2x" alt="๖ۣۣۜCody ๖ۣۣۜYong" class="avatar-u607607-m" itemprop="image" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/6cody-6yong.607607/" class="username " dir="auto" data-user-id="607607" data-xf-init="member-tooltip" itemprop="name">๖ۣۣۜCody ๖ۣۣۜYong</a></h4>
+			<h5 class="userTitle message-userTitle" dir="auto" itemprop="jobTitle">Family Yong's</h5>
+			<div class="userBanner userBanner userBanner--silver message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Пользователи</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17547198" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-07T21:44:43+0300" data-time="1496861083" data-date-string="7 Июн 2017" data-time-string="21:44" title="7 Июн 2017 в 21:44">7 Июн 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17547198" class="u-concealed" rel="nofollow">#11</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>65</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>1,362</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>213</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17547198" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-07T21:44:43+0300" data-time="1496861083" data-date-string="7 Июн 2017" data-time-string="21:44" title="7 Июн 2017 в 21:44">7 Июн 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17547198" class="u-concealed" rel="nofollow">#11</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-17547198"
+							data-lb-caption-desc="๖ۣۣۜCody ๖ۣۣۜYong &middot; 7 Июн 2017 в 21:44">
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper"><div style="text-align: center"><span style="font-family: 'Times New Roman'"><span style="font-size: 12px"><b>1. Ваши Имя и Фамилия: <span style="color: #ff0000">Cody Yong</span></b><br />
+<b>2. Имя и Фамилия нарушителя: <span style="color: #0000ff">Sasha Gladkih [</span><b><span style="text-decoration: underline"><span style="color: #0000ff">951 530</span></span></b><span style="color: #0000ff">]</span></b><br />
+<b>3. Суть нарушения: Оскорбление сотрудников Мэрии.</b><br />
+<b>4. Доказательства: [<a href="https://youtu.be/j5PczBOWoSM" target="_blank" class="link link--external" data-proxy-href="/proxy.php?link=https%3A%2F%2Fyoutu.be%2Fj5PczBOWoSM&amp;hash=34903109253f7f07e4a24eadb4cde7cc" rel="nofollow noopener">папка</a>]</b><br />
+<b><b><b>
+
+<div class="bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote">
+	
+	<div class="bbCodeBlock-content">
+		<div class="bbCodeBlock-expandContent">
+			<span style="font-family: 'Book Antiqua'"><span style="text-decoration: underline"><span style="color: rgb(0, 0, 0)">Президент Marshall Graves:</span></span> <span style="color: #0059b3">Третий уровень</span><span style="color: rgb(0, 179, 0)">.</span></span>
+		</div>
+		<div class="bbCodeBlock-expandLink"><a>Нажмите для раскрытия...</a></div>
+	</div>
+</div></b></b></b></span></span><span style="font-family: 'Times New Roman'"><span style="font-size: 12px"><br />
+<br />
+<br />
+</span></span>&#8203;</div></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+
+							
+						</div>
+
+						
+							<div class="message-lastEdit">
+								
+									Последнее редактирование модератором: <time  class="u-dt" dir="auto" datetime="2017-06-08T21:17:40+0300" data-time="1496945860" data-date-string="8 Июн 2017" data-time-string="21:17" title="8 Июн 2017 в 21:17">8 Июн 2017</time>
+								
+							</div>
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/17547198/likes" data-xf-click="overlay">Это понравилось <bdi>Vladislavovich</bdi></a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="JesusHill90"
+		data-content="post-17553123"
+		id="js-post-17553123">
+
+		<span class="u-anchorTarget" id="post-17553123"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/jesushill90.622182/" class="avatar avatar--m" data-user-id="622182" data-xf-init="member-tooltip">
+			<img src="/data/avatars/m/622/622182.jpg?1495998188" srcset="/data/avatars/l/622/622182.jpg?1495998188 2x" alt="JesusHill90" class="avatar-u622182-m" itemprop="image" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/jesushill90.622182/" class="username " dir="auto" data-user-id="622182" data-xf-init="member-tooltip" itemprop="name">JesusHill90</a></h4>
+			
+			<div class="userBanner userBanner userBanner--silver message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Новички</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17553123" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-08T15:53:37+0300" data-time="1496926417" data-date-string="8 Июн 2017" data-time-string="15:53" title="8 Июн 2017 в 15:53">8 Июн 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17553123" class="u-concealed" rel="nofollow">#12</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>5</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>16</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>3</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17553123" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-08T15:53:37+0300" data-time="1496926417" data-date-string="8 Июн 2017" data-time-string="15:53" title="8 Июн 2017 в 15:53">8 Июн 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17553123" class="u-concealed" rel="nofollow">#12</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-17553123"
+							data-lb-caption-desc="JesusHill90 &middot; 8 Июн 2017 в 15:53">
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper">1. Ваши Имя и Фамилия: Ray Angeles<br />
+2. Имя и Фамилия нарушителя: Julia Bacardi ( <b>318615 </b>)<br />
+3. Суть нарушения: Покушение на жизнь сотрудника Правительства.<br />
+4. Доказательства:<br />
+ <div class="bbMediaWrapper">
+	<div class="bbMediaWrapper-inner">
+		<iframe src="https://www.youtube.com/embed/oR_I5ltkmJE?wmode=opaque&start=0"
+				width="560" height="315"
+				frameborder="0" allowfullscreen="true"></iframe>
+	</div>
+</div><b><b>
+
+<div class="bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote">
+	
+	<div class="bbCodeBlock-content">
+		<div class="bbCodeBlock-expandContent">
+			<span style="font-family: 'Book Antiqua'"><span style="text-decoration: underline"><span style="color: rgb(0, 0, 0)">Президент Marshall Graves:</span></span> <span style="color: rgb(0, 89, 179)">Третий уровень</span><span style="color: rgb(0, 179, 0)">.</span></span>
+		</div>
+		<div class="bbCodeBlock-expandLink"><a>Нажмите для раскрытия...</a></div>
+	</div>
+</div></b></b></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+
+							
+						</div>
+
+						
+							<div class="message-lastEdit">
+								
+									Последнее редактирование модератором: <time  class="u-dt" dir="auto" datetime="2017-06-08T21:17:57+0300" data-time="1496945877" data-date-string="8 Июн 2017" data-time-string="21:17" title="8 Июн 2017 в 21:17">8 Июн 2017</time>
+								
+							</div>
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/17553123/likes" data-xf-click="overlay">Это понравилось <bdi>Vladislavovich</bdi></a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="LeonardoDDR4"
+		data-content="post-17587641"
+		id="js-post-17587641">
+
+		<span class="u-anchorTarget" id="post-17587641"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/leonardoddr4.468225/" class="avatar avatar--m avatar--default avatar--default--dynamic" data-user-id="468225" data-xf-init="member-tooltip" style="background-color: #ad33cc; color: #e7c2f0">
+			<span class="avatar-u468225-m">L</span> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/leonardoddr4.468225/" class="username " dir="auto" data-user-id="468225" data-xf-init="member-tooltip" itemprop="name"><span class="username--style15">LeonardoDDR4</span></a></h4>
+			
+			<div class="userBanner userBanner checkedpeople message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Проверенные</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17587641" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-12T07:11:44+0300" data-time="1497240704" data-date-string="12 Июн 2017" data-time-string="07:11" title="12 Июн 2017 в 07:11">12 Июн 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17587641" class="u-concealed" rel="nofollow">#13</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>38</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>2,676</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>323</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17587641" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-12T07:11:44+0300" data-time="1497240704" data-date-string="12 Июн 2017" data-time-string="07:11" title="12 Июн 2017 в 07:11">12 Июн 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17587641" class="u-concealed" rel="nofollow">#13</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-17587641"
+							data-lb-caption-desc="LeonardoDDR4 &middot; 12 Июн 2017 в 07:11">
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper"><div style="text-align: center"><span style="font-family: 'Book Antiqua'"><span style="font-size: 15px">1. Ваши Имя и Фамилия: <span style="color: #0000ff">Rey Salieri</span><br />
+2. Имя и Фамилия нарушителя: Dave Rogers<br />
+3. Суть нарушения: Не пробыл дня на должности &quot;Депутат&quot;<br />
+4. Доказательства: *<a href="https://forum.advance-rp.ru/threads/pravitelstvo-zajavlenie-na-povyshenie-vysshego-sostava.1383068/#post-17576064" class="link link--internal" data-proxy-href="/proxy.php?link=https%3A%2F%2Fforum.advance-rp.ru%2Fthreads%2Fpravitelstvo-zajavlenie-na-povyshenie-vysshego-sostava.1383068%2F%23post-17576064&amp;hash=489621dd702f093f7e11f284336ccc70">click</a>*  *<a href="http://imgur.com/a/JWJsH" target="_blank" class="link link--external" data-proxy-href="/proxy.php?link=http%3A%2F%2Fimgur.com%2Fa%2FJWJsH&amp;hash=45046982757f0ad7dda9c154a4d882b3" rel="nofollow noopener">click</a>*<br />
+<b><b>
+
+<div class="bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote">
+	
+	<div class="bbCodeBlock-content">
+		<div class="bbCodeBlock-expandContent">
+			<span style="font-family: 'Book Antiqua'"><span style="text-decoration: underline"><span style="color: rgb(0, 0, 0)">Президент Marshall Graves:</span></span> <span style="color: rgb(0, 89, 179)">Не запрещено</span><span style="color: rgb(0, 179, 0)">.</span></span>
+		</div>
+		<div class="bbCodeBlock-expandLink"><a>Нажмите для раскрытия...</a></div>
+	</div>
+</div></b></b></span></span>&#8203;</div></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+
+							
+						</div>
+
+						
+							<div class="message-lastEdit">
+								
+									Последнее редактирование модератором: <time  class="u-dt" dir="auto" datetime="2017-06-14T13:53:55+0300" data-time="1497437635" data-date-string="14 Июн 2017" data-time-string="13:53" title="14 Июн 2017 в 13:53">14 Июн 2017</time>
+								
+							</div>
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/17587641/likes" data-xf-click="overlay">Это понравилось <bdi>Vladislavovich</bdi> и <bdi>๖ۣۣۜCody ๖ۣۣۜYong</bdi></a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="LeonardoDDR4"
+		data-content="post-17597919"
+		id="js-post-17597919">
+
+		<span class="u-anchorTarget" id="post-17597919"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/leonardoddr4.468225/" class="avatar avatar--m avatar--default avatar--default--dynamic" data-user-id="468225" data-xf-init="member-tooltip" style="background-color: #ad33cc; color: #e7c2f0">
+			<span class="avatar-u468225-m">L</span> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/leonardoddr4.468225/" class="username " dir="auto" data-user-id="468225" data-xf-init="member-tooltip" itemprop="name"><span class="username--style15">LeonardoDDR4</span></a></h4>
+			
+			<div class="userBanner userBanner checkedpeople message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Проверенные</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17597919" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-13T09:25:39+0300" data-time="1497335139" data-date-string="13 Июн 2017" data-time-string="09:25" title="13 Июн 2017 в 09:25">13 Июн 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17597919" class="u-concealed" rel="nofollow">#14</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>38</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>2,676</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>323</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17597919" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-13T09:25:39+0300" data-time="1497335139" data-date-string="13 Июн 2017" data-time-string="09:25" title="13 Июн 2017 в 09:25">13 Июн 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17597919" class="u-concealed" rel="nofollow">#14</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-17597919"
+							data-lb-caption-desc="LeonardoDDR4 &middot; 13 Июн 2017 в 09:25">
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper"><div style="text-align: center"><span style="font-family: 'Trebuchet MS'">1. Ваши Имя и Фамилия: <span style="color: #0000ff"><b>Rey Salieri</b></span><br />
+2. Имя и Фамилия нарушителя: <span style="color: #ff0000"><b>Arlanda_Neri</b></span><br />
+3. Суть нарушения: Обман <br />
+4. Доказательства: *<a href="https://forum.advance-rp.ru/threads/mehrija-ls-zajavlenie-na-otpusk.1383618/#post-17591059" class="link link--internal" data-proxy-href="/proxy.php?link=https%3A%2F%2Fforum.advance-rp.ru%2Fthreads%2Fmehrija-ls-zajavlenie-na-otpusk.1383618%2F%23post-17591059&amp;hash=8ccd72809e2ea22e4360d6b94ad89743">Отпуск</a>*  *<a href="https://forum.advance-rp.ru/threads/mehrija-ls-spisok-sotrudnikov.1383601/" class="link link--internal" data-proxy-href="/proxy.php?link=https%3A%2F%2Fforum.advance-rp.ru%2Fthreads%2Fmehrija-ls-spisok-sotrudnikov.1383601%2F&amp;hash=53414321904c2544d9c4843e39fefa9a">Список сотрудников</a>*<br />
+<b><b><b><span style="font-size: 12px"><span style="font-family: 'Times New Roman'">
+
+<div class="bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote">
+	
+	<div class="bbCodeBlock-content">
+		<div class="bbCodeBlock-expandContent">
+			<span style="font-family: 'Book Antiqua'"><span style="text-decoration: underline"><span style="color: rgb(0, 0, 0)">Президент Marshall Graves:</span></span> <span style="color: rgb(0, 89, 179)">Первый уровень</span><span style="color: rgb(0, 179, 0)">.</span></span>
+		</div>
+		<div class="bbCodeBlock-expandLink"><a>Нажмите для раскрытия...</a></div>
+	</div>
+</div></span></span></b></b></b></span>&#8203;</div></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+
+							
+						</div>
+
+						
+							<div class="message-lastEdit">
+								
+									Последнее редактирование модератором: <time  class="u-dt" dir="auto" datetime="2017-06-14T21:51:07+0300" data-time="1497466267" data-date-string="14 Июн 2017" data-time-string="21:51" title="14 Июн 2017 в 21:51">14 Июн 2017</time>
+								
+							</div>
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/17597919/likes" data-xf-click="overlay">Это понравилось <bdi>Vladislavovich</bdi>, <bdi>ᴀᴅᴀᴍ ʙᴀʀʀᴏᴡs</bdi> и <span>๖ۣۣۜCody ๖ۣۣۜYong</bdi></a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="Ernesto_Conte"
+		data-content="post-17609805"
+		id="js-post-17609805">
+
+		<span class="u-anchorTarget" id="post-17609805"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/ernesto_conte.626491/" class="avatar avatar--m" data-user-id="626491" data-xf-init="member-tooltip">
+			<img src="/data/avatars/m/626/626491.jpg?1497536918" srcset="/data/avatars/l/626/626491.jpg?1497536918 2x" alt="Ernesto_Conte" class="avatar-u626491-m" itemprop="image" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/ernesto_conte.626491/" class="username " dir="auto" data-user-id="626491" data-xf-init="member-tooltip" itemprop="name">Ernesto_Conte</a></h4>
+			
+			<div class="userBanner userBanner userBanner--silver message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Новички</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17609805" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-14T12:44:38+0300" data-time="1497433478" data-date-string="14 Июн 2017" data-time-string="12:44" title="14 Июн 2017 в 12:44">14 Июн 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17609805" class="u-concealed" rel="nofollow">#15</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>3</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>14</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>3</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17609805" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-14T12:44:38+0300" data-time="1497433478" data-date-string="14 Июн 2017" data-time-string="12:44" title="14 Июн 2017 в 12:44">14 Июн 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17609805" class="u-concealed" rel="nofollow">#15</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-17609805"
+							data-lb-caption-desc="Ernesto_Conte &middot; 14 Июн 2017 в 12:44">
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper"><div style="text-align: center"><b><i>1. Ваше имя и фамилия: Ernesto Conte</i><br />
+<b><b><i>2. Имя и фамилия нарушителя: <i><b><b>Danya Vaginov</b></b></i><br />
+3. Суть ситуации (конфликта): Я заехал в магазин одежды, ну что бы присмотреть себе новую одежу, затем я вышел с магазина и сел в свою машину, потом я заметил, что сотрудник правительства, а точней охранник направил на меня оружие. Подъехав и сказал ему &quot;Ну давай рискни&quot; , он дал ответ &quot;Потеряйся&quot;, я думаю, что это не подобающее поведение сотрудника, причем <i><b><b>правительства. Прошу принять меры!</b></b></i></i></b></b></b><br />
+<i><b><b><i>4. Доказательства [видео]: <a href="https://forum.advance-rp.ru/redirect/?to=aHR0cHM6Ly95b3V0dS5iZS8xUlhlUWg4VWdxWQ%3D%3D" class="link link--internal" data-proxy-href="/proxy.php?link=https%3A%2F%2Fforum.advance-rp.ru%2Fredirect%2F%3Fto%3DaHR0cHM6Ly95b3V0dS5iZS8xUlhlUWg4VWdxWQ%253D%253D&amp;hash=602f79d1c1792e1cec0193fba72cbecb">&quot;Док-ва&quot;</a></i></b></b></i><br />
+<b><b><b><span style="font-size: 12px"><span style="font-family: 'Times New Roman'"><b><b><span style="font-family: 'Trebuchet MS'">
+
+<div class="bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote">
+	
+	<div class="bbCodeBlock-content">
+		<div class="bbCodeBlock-expandContent">
+			<span style="font-family: 'Book Antiqua'"><span style="text-decoration: underline"><span style="color: rgb(0, 0, 0)">Президент Marshall Graves:</span></span> <span style="color: #0059b3">В Док-вах даже нету такого сотрудника</span><span style="color: rgb(0, 179, 0)">. </span><span style="color: #b30000">Отказано.</span></span>
+		</div>
+		<div class="bbCodeBlock-expandLink"><a>Нажмите для раскрытия...</a></div>
+	</div>
+</div></span></b></b></span></span></b></b></b>&#8203;</div></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+
+							
+						</div>
+
+						
+							<div class="message-lastEdit">
+								
+									Последнее редактирование модератором: <time  class="u-dt" dir="auto" datetime="2017-06-14T21:57:29+0300" data-time="1497466649" data-date-string="14 Июн 2017" data-time-string="21:57" title="14 Июн 2017 в 21:57">14 Июн 2017</time>
+								
+							</div>
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/17609805/likes" data-xf-click="overlay">Это понравилось <bdi>Vladislavovich</bdi> и <bdi>๖ۣۣۜCody ๖ۣۣۜYong</bdi></a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="Ernesto_Conte"
+		data-content="post-17611324"
+		id="js-post-17611324">
+
+		<span class="u-anchorTarget" id="post-17611324"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/ernesto_conte.626491/" class="avatar avatar--m" data-user-id="626491" data-xf-init="member-tooltip">
+			<img src="/data/avatars/m/626/626491.jpg?1497536918" srcset="/data/avatars/l/626/626491.jpg?1497536918 2x" alt="Ernesto_Conte" class="avatar-u626491-m" itemprop="image" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/ernesto_conte.626491/" class="username " dir="auto" data-user-id="626491" data-xf-init="member-tooltip" itemprop="name">Ernesto_Conte</a></h4>
+			
+			<div class="userBanner userBanner userBanner--silver message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Новички</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17611324" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-14T14:49:47+0300" data-time="1497440987" data-date-string="14 Июн 2017" data-time-string="14:49" title="14 Июн 2017 в 14:49">14 Июн 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17611324" class="u-concealed" rel="nofollow">#16</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>3</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>14</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>3</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17611324" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-14T14:49:47+0300" data-time="1497440987" data-date-string="14 Июн 2017" data-time-string="14:49" title="14 Июн 2017 в 14:49">14 Июн 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17611324" class="u-concealed" rel="nofollow">#16</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-17611324"
+							data-lb-caption-desc="Ernesto_Conte &middot; 14 Июн 2017 в 14:49">
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper"><div style="text-align: center"><b><i>1. Ваши Имя и Фамилия: <span style="color: #ff0000">E</span>rnesto <span style="color: #ff0000">C</span>onte</i><br />
+<b><i>2. Имя и Фамилия нарушителя: <span style="text-decoration: underline"><span style="color: #ff0000">Akio Sugavara</span></span></i></b><br />
+<i><b><i>3. Суть нарушения: Я стоял, никого не трогал, тут подходит охранник мэрий LS и для начала оскорбляет меня, затем он производит выстрел, потом отбегает до ступеней мэрий и делает еще один выстрел. <br />
+4. Доказательства: <a href="https://youtu.be/m9jfGd8M9ho" target="_blank" class="link link--external" data-proxy-href="/proxy.php?link=https%3A%2F%2Fyoutu.be%2Fm9jfGd8M9ho&amp;hash=5f15167340a354daf4af47ea9a5b9c73" rel="nofollow noopener">&quot;Док-ва №1&quot;</a>  &quot;<a href="https://youtu.be/k_2u8YamfFY" target="_blank" class="link link--external" data-proxy-href="/proxy.php?link=https%3A%2F%2Fyoutu.be%2Fk_2u8YamfFY&amp;hash=7c28f7efaef6fa1bb3829b6bad8da647" rel="nofollow noopener">Док-ва№2&quot;</a> ( Прошу прошение что видео было так снято, моя ошибка )</i></b></i><br />
+<b><b><span style="font-family: 'Trebuchet MS'"><b><span style="font-family: 'Times New Roman'"><span style="font-size: 12px"><b><b><b>
+
+<div class="bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote">
+	
+	<div class="bbCodeBlock-content">
+		<div class="bbCodeBlock-expandContent">
+			<span style="font-family: 'Book Antiqua'"><span style="text-decoration: underline"><span style="color: rgb(0, 0, 0)">Президент Marshall Graves:</span></span> <span style="color: rgb(0, 89, 179)">Ужасное качество видео</span><span style="color: rgb(0, 179, 0)">. </span><span style="color: rgb(179, 0, 0)">Отказано.</span></span>
+		</div>
+		<div class="bbCodeBlock-expandLink"><a>Нажмите для раскрытия...</a></div>
+	</div>
+</div></b></b></b></span></span></b></span></b></b></b>&#8203;</div></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+
+							
+						</div>
+
+						
+							<div class="message-lastEdit">
+								
+									Последнее редактирование модератором: <time  class="u-dt" dir="auto" datetime="2017-06-14T22:01:10+0300" data-time="1497466870" data-date-string="14 Июн 2017" data-time-string="22:01" title="14 Июн 2017 в 22:01">14 Июн 2017</time>
+								
+							</div>
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/17611324/likes" data-xf-click="overlay">Это понравилось <bdi>Vladislavovich</bdi> и <bdi>๖ۣۣۜCody ๖ۣۣۜYong</bdi></a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="๖ۣۣۜTēđ ๖ۣۣۜWЇllЇą₥ś"
+		data-content="post-17653545"
+		id="js-post-17653545">
+
+		<span class="u-anchorTarget" id="post-17653545"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/6ted-6wjilljias.305412/" class="avatar avatar--m" data-user-id="305412" data-xf-init="member-tooltip">
+			<img src="/data/avatars/m/305/305412.jpg?1498245339" srcset="/data/avatars/l/305/305412.jpg?1498245339 2x" alt="๖ۣۣۜTēđ ๖ۣۣۜWЇllЇą₥ś" class="avatar-u305412-m" itemprop="image" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/6ted-6wjilljias.305412/" class="username " dir="auto" data-user-id="305412" data-xf-init="member-tooltip" itemprop="name">๖ۣۣۜTēđ ๖ۣۣۜWЇllЇą₥ś</a></h4>
+			<h5 class="userTitle message-userTitle" dir="auto" itemprop="jobTitle">Ŧhe Ŗeal Ŀife</h5>
+			<div class="userBanner userBanner userBanner--silver message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Пользователи</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17653545" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-18T18:12:43+0300" data-time="1497798763" data-date-string="18 Июн 2017" data-time-string="18:12" title="18 Июн 2017 в 18:12">18 Июн 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17653545" class="u-concealed" rel="nofollow">#17</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>47</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>4,165</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>213</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17653545" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-18T18:12:43+0300" data-time="1497798763" data-date-string="18 Июн 2017" data-time-string="18:12" title="18 Июн 2017 в 18:12">18 Июн 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17653545" class="u-concealed" rel="nofollow">#17</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-17653545"
+							data-lb-caption-desc="๖ۣۣۜTēđ ๖ۣۣۜWЇllЇą₥ś &middot; 18 Июн 2017 в 18:12">
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper"><div style="text-align: center"><span style="font-family: 'Times New Roman'"><i>1. Ваше имя и фамилия: Ted Williams</i><br />
+<i>2. Имя и фамилия нарушителя: Manuel King</i><br />
+<i>3. Суть ситуации (конфликта): Прошу уволить данного сотрудника, за помощь скрыться преступнику. Желательно еще его в Черный список.(+Офф от ареста.)</i><br />
+<i>4. Видео <a href="https://www.youtube.com/watch?v=j8EQgWkIAZE&amp;feature=youtu.be" target="_blank" class="link link--external" data-proxy-href="/proxy.php?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dj8EQgWkIAZE%26feature%3Dyoutu.be&amp;hash=11e8bab3c5586473701d0de07f656c08" rel="nofollow noopener">тут</a></i><br />
+<b><span style="font-size: 12px"><span style="font-family: 'Times New Roman'"><b><b><span style="font-family: 'Trebuchet MS'">
+
+<div class="bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote">
+	
+	<div class="bbCodeBlock-content">
+		<div class="bbCodeBlock-expandContent">
+			<span style="font-family: 'Book Antiqua'"><span style="text-decoration: underline"><span style="color: rgb(0, 0, 0)">Президент Marshall Graves:</span></span> <span style="color: rgb(0, 89, 179)">Второй уровень</span><span style="color: rgb(0, 179, 0)">.</span></span>
+		</div>
+		<div class="bbCodeBlock-expandLink"><a>Нажмите для раскрытия...</a></div>
+	</div>
+</div></span></b></b></span></span></b></span>&#8203;</div></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+
+							
+						</div>
+
+						
+							<div class="message-lastEdit">
+								
+									Последнее редактирование модератором: <time  class="u-dt" dir="auto" datetime="2017-06-20T18:24:45+0300" data-time="1497972285" data-date-string="20 Июн 2017" data-time-string="18:24" title="20 Июн 2017 в 18:24">20 Июн 2017</time>
+								
+							</div>
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/17653545/likes" data-xf-click="overlay">Это понравилось <bdi>Vladislavovich</bdi></a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="Sam Ingram"
+		data-content="post-17658729"
+		id="js-post-17658729">
+
+		<span class="u-anchorTarget" id="post-17658729"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/sam-ingram.165900/" class="avatar avatar--m" data-user-id="165900" data-xf-init="member-tooltip">
+			<img src="/data/avatars/m/165/165900.jpg?1525886702" srcset="/data/avatars/l/165/165900.jpg?1525886702 2x" alt="Sam Ingram" class="avatar-u165900-m" itemprop="image" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/sam-ingram.165900/" class="username " dir="auto" data-user-id="165900" data-xf-init="member-tooltip" itemprop="name"><span class="username--style15">Sam Ingram</span></a></h4>
+			
+			<div class="userBanner userBanner checkedpeople message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Проверенные</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17658729" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-19T09:05:55+0300" data-time="1497852355" data-date-string="19 Июн 2017" data-time-string="09:05" title="19 Июн 2017 в 09:05">19 Июн 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17658729" class="u-concealed" rel="nofollow">#18</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>2,193</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>27,979</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>468</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17658729" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-19T09:05:55+0300" data-time="1497852355" data-date-string="19 Июн 2017" data-time-string="09:05" title="19 Июн 2017 в 09:05">19 Июн 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17658729" class="u-concealed" rel="nofollow">#18</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-17658729"
+							data-lb-caption-desc="Sam Ingram &middot; 19 Июн 2017 в 09:05">
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper"><span style="font-family: 'Trebuchet MS'">1. Ваши Имя и Фамилия: Sam Ingram<br />
+2. Имя и Фамилия нарушителя: Jacky_Shelton | 547 294<br />
+3. Суть нарушения: Мат, оскорбления, проблемы с законом (что на видео). <br />
+4. Доказательства: <div class="bbMediaWrapper">
+	<div class="bbMediaWrapper-inner">
+		<iframe src="https://www.youtube.com/embed/mGSKkkFn4Q4?wmode=opaque&start=0"
+				width="560" height="315"
+				frameborder="0" allowfullscreen="true"></iframe>
+	</div>
+</div></span><div style="text-align: center"><span style="font-family: 'Trebuchet MS'"><b><span style="font-size: 12px"><span style="font-family: 'Times New Roman'"><b><b><span style="font-family: 'Trebuchet MS'">
+
+<div class="bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote">
+	
+	<div class="bbCodeBlock-content">
+		<div class="bbCodeBlock-expandContent">
+			<span style="font-family: 'Book Antiqua'"><span style="text-decoration: underline"><span style="color: rgb(0, 0, 0)">Президент Marshall Graves:</span></span> <span style="color: rgb(0, 89, 179)">Второй уровень</span><span style="color: rgb(0, 179, 0)">.</span></span>
+		</div>
+		<div class="bbCodeBlock-expandLink"><a>Нажмите для раскрытия...</a></div>
+	</div>
+</div></span></b></b></span></span></b></span>&#8203;</div></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+
+							
+						</div>
+
+						
+							<div class="message-lastEdit">
+								
+									Последнее редактирование модератором: <time  class="u-dt" dir="auto" datetime="2017-06-20T18:28:04+0300" data-time="1497972484" data-date-string="20 Июн 2017" data-time-string="18:28" title="20 Июн 2017 в 18:28">20 Июн 2017</time>
+								
+							</div>
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/17658729/likes" data-xf-click="overlay">Это понравилось <bdi>Vladislavovich</bdi></a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="Ernesto_Conte"
+		data-content="post-17661328"
+		id="js-post-17661328">
+
+		<span class="u-anchorTarget" id="post-17661328"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/ernesto_conte.626491/" class="avatar avatar--m" data-user-id="626491" data-xf-init="member-tooltip">
+			<img src="/data/avatars/m/626/626491.jpg?1497536918" srcset="/data/avatars/l/626/626491.jpg?1497536918 2x" alt="Ernesto_Conte" class="avatar-u626491-m" itemprop="image" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/ernesto_conte.626491/" class="username " dir="auto" data-user-id="626491" data-xf-init="member-tooltip" itemprop="name">Ernesto_Conte</a></h4>
+			
+			<div class="userBanner userBanner userBanner--silver message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Новички</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17661328" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-19T14:32:35+0300" data-time="1497871955" data-date-string="19 Июн 2017" data-time-string="14:32" title="19 Июн 2017 в 14:32">19 Июн 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17661328" class="u-concealed" rel="nofollow">#19</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>3</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>14</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>3</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17661328" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-19T14:32:35+0300" data-time="1497871955" data-date-string="19 Июн 2017" data-time-string="14:32" title="19 Июн 2017 в 14:32">19 Июн 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17661328" class="u-concealed" rel="nofollow">#19</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-17661328"
+							data-lb-caption-desc="Ernesto_Conte &middot; 19 Июн 2017 в 14:32">
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper"><div style="text-align: center"><b><i><span style="font-family: 'Times New Roman'"><span style="font-size: 12px">1. Ваши Имя и Фамилия: Ernesto Conte</span></span></i><br />
+<b><i><span style="font-family: 'Times New Roman'"><span style="font-size: 12px">2. Имя и Фамилия нарушителя: Carlos Yogan</span></span></i></b><br />
+<i><b><i><span style="font-family: 'Times New Roman'"><span style="font-size: 12px">3. Суть нарушения: Данная особа стояла на посту у Администраций президента, к ним подъехал сотрудник МЗ, потом вел с ним диалог, потом убил. </span></span></i></b><br />
+<span style="font-family: 'Times New Roman'"><span style="font-size: 12px"><b><span style="font-size: 13px"><span style="font-family: 'Tahoma'"><i><span style="font-family: 'Times New Roman'"><span style="font-size: 12px">4. Доказательства: <a href="https://youtu.be/xVSfEnmG4JY" target="_blank" class="link link--external" data-proxy-href="/proxy.php?link=https%3A%2F%2Fyoutu.be%2FxVSfEnmG4JY&amp;hash=4c20a92bf868989bc42da104ba8059fe" rel="nofollow noopener">&quot;Док-ва&quot;</a></span></span></i></span></span></b></span></span></i><br />
+<span style="font-family: 'Times New Roman'"><span style="font-size: 12px"><b><span style="font-family: 'Trebuchet MS'"><b><span style="font-family: 'Times New Roman'"><span style="font-size: 12px"><b><span style="font-family: 'Trebuchet MS'">
+
+<div class="bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote">
+	
+	<div class="bbCodeBlock-content">
+		<div class="bbCodeBlock-expandContent">
+			<span style="font-family: 'Book Antiqua'"><span style="text-decoration: underline"><span style="color: rgb(0, 0, 0)">Президент Marshall Graves:</span></span> <span style="color: rgb(0, 89, 179)">Третий уровень</span><span style="color: rgb(0, 179, 0)">.</span></span>
+		</div>
+		<div class="bbCodeBlock-expandLink"><a>Нажмите для раскрытия...</a></div>
+	</div>
+</div></span></b></span></span></b></span></b></span></span></b>&#8203;</div></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+
+							
+						</div>
+
+						
+							<div class="message-lastEdit">
+								
+									Последнее редактирование модератором: <time  class="u-dt" dir="auto" datetime="2017-06-20T18:31:37+0300" data-time="1497972697" data-date-string="20 Июн 2017" data-time-string="18:31" title="20 Июн 2017 в 18:31">20 Июн 2017</time>
+								
+							</div>
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/17661328/likes" data-xf-click="overlay">Это понравилось <bdi>Vladislavovich</bdi></a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="Antonio_Salieri"
+		data-content="post-17704337"
+		id="js-post-17704337">
+
+		<span class="u-anchorTarget" id="post-17704337"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="/members/antonio_salieri.537094/" class="avatar avatar--m" data-user-id="537094" data-xf-init="member-tooltip">
+			<img src="/data/avatars/m/537/537094.jpg?1528581898" srcset="/data/avatars/l/537/537094.jpg?1528581898 2x" alt="Antonio_Salieri" class="avatar-u537094-m" itemprop="image" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="/members/antonio_salieri.537094/" class="username " dir="auto" data-user-id="537094" data-xf-init="member-tooltip" itemprop="name"><span class="username--style15">Antonio_Salieri</span></a></h4>
+			<h5 class="userTitle message-userTitle" dir="auto" itemprop="jobTitle">#Red | Salieri Family</h5>
+			<div class="userBanner userBanner checkedpeople message-userBanner" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Проверенные</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17704337" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-23T17:16:46+0300" data-time="1498227406" data-date-string="23 Июн 2017" data-time-string="17:16" title="23 Июн 2017 в 17:16">23 Июн 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17704337" class="u-concealed" rel="nofollow">#20</a></div>
+		
+			
+			
+				<div class="message-userExtras">
+				
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Сообщения</dt>
+							<dd>65</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Симпатии</dt>
+							<dd>2,161</dd>
+						</dl>
+					
+					
+						<dl class="pairs pairs--justified">
+							<dt>Баллы</dt>
+							<dd>333</dd>
+						</dl>
+					
+					
+					
+					
+					
+				
+				</div>
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17704337" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-06-23T17:16:46+0300" data-time="1498227406" data-date-string="23 Июн 2017" data-time-string="17:16" title="23 Июн 2017 в 17:16">23 Июн 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/post-17704337" class="u-concealed" rel="nofollow">#20</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-17704337"
+							data-lb-caption-desc="Antonio_Salieri &middot; 23 Июн 2017 в 17:16">
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper">1. Ваши Имя и Фамилия: Antonio_Salieri<br />
+2. Имя и Фамилия нарушителя: Andrey_Kokalov<br />
+3. Суть нарушения: Оскорбление мат<br />
+4. Доказательства: <div class="bbMediaWrapper">
+	<div class="bbMediaWrapper-inner">
+		<iframe src="https://www.youtube.com/embed/SkEAZJCo24I?wmode=opaque&start=0"
+				width="560" height="315"
+				frameborder="0" allowfullscreen="true"></iframe>
+	</div>
+</div><b><span style="font-family: 'Trebuchet MS'"><b><span style="font-family: 'Times New Roman'"><span style="font-size: 12px"><b><span style="font-family: 'Trebuchet MS'">
+
+<div class="bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote">
+	
+	<div class="bbCodeBlock-content">
+		<div class="bbCodeBlock-expandContent">
+			<span style="font-family: 'Book Antiqua'"><span style="text-decoration: underline"><span style="color: rgb(0, 0, 0)">Президент Marshall Graves:</span></span> <span style="color: rgb(0, 89, 179)">Второй уровень</span><span style="color: rgb(0, 179, 0)">.</span></span>
+		</div>
+		<div class="bbCodeBlock-expandLink"><a>Нажмите для раскрытия...</a></div>
+	</div>
+</div></span></b></span></span></b></span></b></div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+
+							
+						</div>
+
+						
+							<div class="message-lastEdit">
+								
+									Последнее редактирование модератором: <time  class="u-dt" dir="auto" datetime="2017-06-23T18:46:11+0300" data-time="1498232771" data-date-string="23 Июн 2017" data-time-string="18:46" title="23 Июн 2017 в 18:46">23 Июн 2017</time>
+								
+							</div>
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList is-active">
+							<i class="likeIcon" title="Симпатии" aria-hidden="true"></i>
+<span class="u-srOnly">Симпатии:</span>
+<a href="/posts/17704337/likes" data-xf-click="overlay">Это понравилось <bdi>Vladislavovich</bdi></a>
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	
+
+				
+			
+		</div>
+	</div>
+
+	
+		<div class="block-outer block-outer--after">
+			
+				<div class="block-outer-main"><nav class="pageNavWrapper pageNavWrapper--mixed ">
+
+
+
+<div class="pageNav  pageNav--skipEnd">
+	
+
+	<ul class="pageNav-main">
+		
+
+	
+		<li class="pageNav-page pageNav-page--current "><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/">1</a></li>
+	
+
+
+		
+
+		
+			
+
+	
+		<li class="pageNav-page pageNav-page--later"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/page-2">2</a></li>
+	
+
+		
+			
+
+	
+		<li class="pageNav-page pageNav-page--later"><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/page-3">3</a></li>
+	
+
+		
+
+		
+			
+				<li class="pageNav-page pageNav-page--skip pageNav-page--skipEnd">
+					<a data-xf-init="tooltip" title="Перейти к странице"
+						data-xf-click="menu"
+						role="button" tabindex="0" aria-expanded="false" aria-haspopup="true">...</a>
+					
+
+	<div class="menu menu--pageJump" data-menu="menu" aria-hidden="true">
+		<div class="menu-content">
+			<h4 class="menu-header">Перейти к странице</h4>
+			<div class="menu-row" data-xf-init="page-jump" data-page-url="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/page-%page%">
+				<div class="inputGroup inputGroup--numbers">
+					<div class="inputGroup inputGroup--numbers inputNumber" data-xf-init="number-box"><input type="number" pattern="\d*" class="input input--number js-numberBoxTextInput input input--numberNarrow js-pageJumpPage" value="4"  min="1" max="19" step="1" required="required" data-menu-autofocus="true" /></div>
+					<span class="inputGroup-text"><button type="button" class="js-pageJumpGo button"><span class="button-text">Выполнить</span></button></span>
+				</div>
+			</div>
+		</div>
+	</div>
+
+				</li>
+			
+		
+
+		
+
+	
+		<li class="pageNav-page "><a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/page-19">19</a></li>
+	
+
+	</ul>
+
+	
+		<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/page-2" class="pageNav-jump pageNav-jump--next">Вперёд</a>
+	
+</div>
+
+<div class="pageNavSimple">
+	
+
+	<a class="pageNavSimple-el pageNavSimple-el--current"
+		data-xf-init="tooltip" title="Перейти к странице"
+		data-xf-click="menu" role="button" tabindex="0" aria-expanded="false" aria-haspopup="true">
+		1 из 19
+	</a>
+	
+
+	<div class="menu menu--pageJump" data-menu="menu" aria-hidden="true">
+		<div class="menu-content">
+			<h4 class="menu-header">Перейти к странице</h4>
+			<div class="menu-row" data-xf-init="page-jump" data-page-url="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/page-%page%">
+				<div class="inputGroup inputGroup--numbers">
+					<div class="inputGroup inputGroup--numbers inputNumber" data-xf-init="number-box"><input type="number" pattern="\d*" class="input input--number js-numberBoxTextInput input input--numberNarrow js-pageJumpPage" value="1"  min="1" max="19" step="1" required="required" data-menu-autofocus="true" /></div>
+					<span class="inputGroup-text"><button type="button" class="js-pageJumpGo button"><span class="button-text">Выполнить</span></button></span>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	
+		<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/page-2" class="pageNavSimple-el pageNavSimple-el--next">
+			Вперёд <i aria-hidden="true"></i>
+		</a>
+		<a href="/threads/pravitelstvo-chjornyj-spisok-pravitelstva.1319939/page-19"
+			class="pageNavSimple-el pageNavSimple-el--last"
+			data-xf-init="tooltip" title="Last">
+			<i aria-hidden="true"></i> <span class="u-srOnly">Last</span>
+		</a>
+	
+</div>
+
+</nav>
+
+
+
+</div>
+				
+				
+					<div class="block-outer-opposite">
+						
+							<a href="/login/" class="button--link button" data-xf-click="overlay"><span class="button-text">
+								Войдите или зарегистрируйтесь.
+							</span></a>
+						
+					</div>
+				
+			
+		</div>
+	
+
+	
+	
+
+</div>
+
+
+
+
+
+<div class="blockMessage blockMessage--none">
+	
+	
+		
+		<div class="shareButtons shareButtons--iconic" data-xf-init="share-buttons">
+			
+				<span class="shareButtons-label">Поделиться:</span>
+			
+
+			
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+					<a class="shareButtons-button shareButtons-button--link is-hidden" data-clipboard="{url}">
+						<i></i>
+						<span>Ссылка</span>
+					</a>
+					
+				
+			
+		</div>
+	
+
+</div>
+
+
+
+</div>
+				
+			</div>
+
+			
+		</div>
+
+		
+		
+	
+		<ul class="p-breadcrumbs p-breadcrumbs--bottom"
+			itemscope itemtype="https://schema.org/BreadcrumbList">
+		
+
+			
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="https://www.advance-rp.ru/" itemprop="item">
+			<span itemprop="name">Главная</span>
+		</a>
+	</li>
+
+			
+
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="/" itemprop="item">
+			<span itemprop="name">Форумы</span>
+		</a>
+	</li>
+
+			
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="/.#razdely-igrovyx-serverov.12" itemprop="item">
+			<span itemprop="name">Разделы игровых серверов</span>
+		</a>
+	</li>
+
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="/forums/red-server.13/" itemprop="item">
+			<span itemprop="name">Red Server</span>
+		</a>
+	</li>
+
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="/forums/organizacii.20/" itemprop="item">
+			<span itemprop="name">Организации</span>
+		</a>
+	</li>
+
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="/forums/pravitelstvo.23/" itemprop="item">
+			<span itemprop="name">Правительство</span>
+		</a>
+	</li>
+
+			
+
+		
+		</ul>
+	
+
+		
+	</div>
+</div>
+
+<footer class="p-footer" id="footer">
+	<div class="p-footer-inner">
+
+		<div class="p-footer-row">
+			
+				<div class="p-footer-row-main">
+					<ul class="p-footer-linkList">
+					
+						
+							<li><a href="/misc/style" data-xf-click="overlay"
+								data-xf-init="tooltip" title="Выбор стиля" rel="nofollow">
+								<i class="fa fa-paint-brush" aria-hidden="true"></i> Advance Basic
+							</a></li>
+						
+						
+					
+					</ul>
+				</div>
+			
+			<div class="p-footer-row-opposite">
+				<ul class="p-footer-linkList">
+					
+
+					
+						<li><a href="/help/terms/">Правила форума</a></li>
+					
+
+					
+						<li><a href="/help/privacy-policy/">Политика конфиденциальности</a></li>
+					
+
+					
+						<li><a href="/help/">Помощь</a></li>
+					
+
+					
+						<li><a href="https://www.advance-rp.ru/">Главная</a></li>
+					
+					<li><a href="https://forum.advance-rp.ru/pages/pravila_servera/" target="_blank" title="Правила сервера">Правила сервера</a></li>
+				</ul>
+			</div>
+		</div>
+
+		
+
+		
+	</div>
+</footer>
+
+</div> <!-- closing p-pageWrapper -->
+
+<div class="u-bottomFixer js-bottomFixTarget">
+	
+	
+</div>
+
+
+	<div class="u-scrollButtons js-scrollButtons" data-trigger-type="up">
+		<a href="#top" class="button--scroll button" data-xf-click="scroll-to"><span class="button-text"><i class="fa fa-arrow-up"></i><span class="u-srOnly">Сверху</span></span></a>
+		
+	</div>
+
+
+
+	<script src="https://ajax.microsoft.com/ajax/jquery/jquery-3.2.1.min.js"></script><script>window.jQuery || document.write('<script src="/js/vendor/jquery/jquery-3.2.1.min.js?_v=62a2561d"><\/script>')</script>
+	<script src="/js/vendor/vendor-compiled.js?_v=62a2561d"></script>
+	<script src="/js/xf/core-compiled.js?_v=62a2561d"></script>
+	<script src="/js/xf/lightbox-compiled.js?_v=62a2561d"></script>
+<script src="/js/xf/code_block-compiled.js?_v=62a2561d"></script>
+<script>
+
+						jQuery.extend(XF.phrases, {
+							link_copied_to_clipboard: "Ссылка скопирована в буфер обмена."
+						});
+					
+</script>
+
+	<script>
+		jQuery.extend(true, XF.config, {
+			// 
+			userId: 0,
+			url: {
+				fullBase: 'https://forum.advance-rp.ru/',
+				basePath: '/',
+				css: '/css.php?css=__SENTINEL__&s=11&l=20&d=1529476384',
+				keepAlive: '/login/keep-alive'
+			},
+			cookie: {
+				path: '/',
+				domain: '',
+				prefix: 'xf_',
+				secure: true
+			},
+			csrf: '1529482937,447699b776abccfc05a299f31d096723',
+			js: {"\/js\/xf\/lightbox-compiled.js?_v=62a2561d":true,"\/js\/xf\/code_block-compiled.js?_v=62a2561d":true},
+			css: {"public:bb_code.less":true,"public:lightbox.less":true,"public:message.less":true,"public:share_controls.less":true,"public:extra.less":true},
+			time: {
+				now: 1529482937,
+				today: 1529442000,
+				todayDow: 3
+			},
+			borderSizeFeature: '3px',
+			enableRtnProtect: true,
+			enableFormSubmitSticky: true,
+			uploadMaxFilesize: 268435456,
+			visitorCounts: {
+				conversations_unread: '0',
+				alerts_unread: '0',
+				total_unread: '0',
+				title_count: true,
+				icon_indicator: true
+			},
+			jsState: {}
+		});
+
+		jQuery.extend(XF.phrases, {
+			// 
+			date_x_at_time_y: "{date} в {time}",
+			day_x_at_time_y:  "{day} в {time}",
+			yesterday_at_x:   "Вчера в {time}",
+			x_minutes_ago:    "{minutes} мин. назад",
+			one_minute_ago:   "1 минуту назад",
+			a_moment_ago:     "Только что",
+			today_at_x:       "Сегодня в {time}",
+			in_a_moment:      "Только что",
+			in_a_minute:      "Менее минуты назад",
+			in_x_minutes:     "In {minutes} minutes",
+			later_today_at_x: "Сегодня в {time}",
+			tomorrow_at_x:    "Завтра в {time}",
+
+			day0: "Воскресенье",
+			day1: "Понедельник",
+			day2: "Вторник",
+			day3: "Среда",
+			day4: "Четверг",
+			day5: "Пятница",
+			day6: "Суббота",
+
+			dayShort0: "Вос",
+			dayShort1: "Пон",
+			dayShort2: "Вто",
+			dayShort3: "Сре",
+			dayShort4: "Чет",
+			dayShort5: "Пят",
+			dayShort6: "Суб",
+
+			month0: "Январь",
+			month1: "Февраль",
+			month2: "Март",
+			month3: "Апрель",
+			month4: "Май",
+			month5: "Июнь",
+			month6: "Июль",
+			month7: "Август",
+			month8: "Сентябрь",
+			month9: "Октябрь",
+			month10: "Ноябрь",
+			month11: "Декабрь",
+
+			active_user_changed_reload_page: "Ваша сессия истекла. Перезагрузите страницу.",
+			server_did_not_respond_in_time_try_again: "Сервер не ответил вовремя. Пожалуйста, попробуйте снова.",
+			oops_we_ran_into_some_problems: "Упс! Мы столкнулись с некоторыми проблемами.",
+			oops_we_ran_into_some_problems_more_details_console: "Упс! Мы столкнулись с некоторыми проблемами. Пожалуйста, попробуйте позже. Более детальную информацию об ошибке Вы можете посмотреть в консоли браузера.",
+			file_too_large_to_upload: "Файл слишком большой для загрузки.",
+			uploaded_file_is_too_large_for_server_to_process: "Загруженный файл слишком большой для обработки сервером.",
+			files_being_uploaded_are_you_sure: "Файлы все ещё загружаются. Вы действительно хотите отправить эту форму?",
+			attach: "Прикрепить файлы",
+			rich_text_box: "Текстовое поле с поддержкой форматирования",
+			close: "Закрыть",
+
+			showing_x_of_y_items: "Показано {count} из {total} элементов",
+			showing_all_items: "Показаны все элементы",
+			no_items_to_display: "Нет элементов для отображения"
+		});
+	</script>
+
+	<form style="display:none" hidden="hidden">
+		<input type="text" name="_xfClientLoadTime" value="" id="_xfClientLoadTime" title="_xfClientLoadTime" tabindex="-1" />
+	</form>
+
+	
+
+
+
+	
+	
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
